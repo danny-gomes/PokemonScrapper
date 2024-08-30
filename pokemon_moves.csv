@@ -1,0 +1,920 @@
+Move Name,Type,Accuracy,Move Category,Effect Chance,PP,Priority,Power,HP Based Damage,Target,Effect Entry
+pound,normal,100,physical,-1,35,0,40,No,selected-pokemon,Inflicts regular damage.
+karate-chop,fighting,100,physical,-1,25,0,50,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+double-slap,normal,85,physical,-1,10,0,15,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+comet-punch,normal,85,physical,-1,15,0,18,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+mega-punch,normal,85,physical,-1,20,0,80,No,selected-pokemon,Inflicts regular damage.
+pay-day,normal,100,physical,-1,20,0,40,No,selected-pokemon,Inflicts regular damage.  After the battle ends  the winner receives five times the user's level in extra money for each time this move was used.
+fire-punch,fire,100,physical,10,15,0,75,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to burn the target.
+ice-punch,ice,100,physical,10,15,0,75,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to freeze the target.
+thunder-punch,electric,100,physical,10,15,0,75,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to paralyze the target.
+scratch,normal,100,physical,-1,35,0,40,No,selected-pokemon,Inflicts regular damage.
+vice-grip,normal,100,physical,-1,30,0,55,No,selected-pokemon,Inflicts regular damage.
+guillotine,normal,30,physical,-1,5,0,-1,No,selected-pokemon,Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target  this move will fail.  Because this move inflicts a specific and finite amount of damage  endure still prevents the target from fainting.  The effects of lock on  mind reader  and no guard still apply  as long as the user is equal or higher level than the target.  However  they will not give this move a chance to break through detect or protect.
+razor-wind,normal,100,special,-1,10,0,80,No,all-opponents,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.  User charges for one turn before attacking.  This move cannot be selected by sleep talk.
+swords-dance,normal,-1,status,-1,20,0,-1,No,user,Raises the user's Attack by two stages.
+cut,normal,95,physical,-1,30,0,50,No,selected-pokemon,Inflicts regular damage.
+gust,flying,100,special,-1,35,0,40,No,selected-pokemon,Inflicts regular damage.  If the target is under the effect of bounce  fly  or sky drop  this move will hit with double power.
+wing-attack,flying,100,physical,-1,35,0,60,No,selected-pokemon,Inflicts regular damage.
+whirlwind,normal,-1,status,-1,20,-6,-1,No,selected-pokemon,Switches the target out for another of its trainer's Pokémon selected at random.  Wild battles end immediately.  Doesn't affect Pokémon with suction cups or under the effect of ingrain.
+fly,flying,95,physical,-1,15,0,90,No,selected-pokemon,Inflicts regular damage.  User flies high into the air for one turn  becoming immune to attack  and hits on the second turn.  During the immune turn  gust  hurricane  sky uppercut  smack down  thunder  twister  and whirlwind still hit the user normally.  gust and twister also have double power against the user.  The damage from hail and sandstorm still applies during the immune turn.  The user may be hit during its immune turn if under the effect of lock on  mind reader  or no guard.  This move cannot be used while gravity is in effect.  This move cannot be selected by sleep talk.
+bind,normal,85,physical,100,20,0,15,No,selected-pokemon,Inflicts regular damage.  For the next 2–5 turns  the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field  this effect ends.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.  rapid spin cancels this effect.
+slam,normal,75,physical,-1,20,0,80,No,selected-pokemon,Inflicts regular damage.
+vine-whip,grass,100,physical,-1,25,0,45,No,selected-pokemon,Inflicts regular damage.
+stomp,normal,100,physical,30,20,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.  Power is doubled against Pokémon that have used minimize since entering the field.
+double-kick,fighting,100,physical,-1,30,0,30,No,selected-pokemon,Inflicts regular damage.  Hits twice in one turn.
+mega-kick,normal,75,physical,-1,5,0,120,No,selected-pokemon,Inflicts regular damage.
+jump-kick,fighting,95,physical,-1,10,0,100,No,selected-pokemon,Inflicts regular damage. If this move misses  is blocked by protect or detect  or has no effect  the user takes damage equal to half of its max HP rounded down.  This move cannot be used while gravity is in effect.
+rolling-kick,fighting,85,physical,30,15,0,60,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+sand-attack,ground,100,status,-1,15,0,-1,No,selected-pokemon,Lowers the target's accuracy by one stage.
+headbutt,normal,100,physical,30,15,0,70,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+horn-attack,normal,100,physical,-1,25,0,65,No,selected-pokemon,Inflicts regular damage.
+fury-attack,normal,85,physical,-1,20,0,15,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+horn-drill,normal,30,physical,-1,5,0,-1,No,selected-pokemon,Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target  this move will fail.  Because this move inflicts a specific and finite amount of damage  endure still prevents the target from fainting.  The effects of lock on  mind reader  and no guard still apply  as long as the user is equal or higher level than the target.  However  they will not give this move a chance to break through detect or protect.
+tackle,normal,100,physical,-1,35,0,40,No,selected-pokemon,Inflicts regular damage.
+body-slam,normal,100,physical,30,15,0,85,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+wrap,normal,90,physical,100,20,0,15,No,selected-pokemon,Inflicts regular damage.  For the next 2–5 turns  the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field  this effect ends.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.  rapid spin cancels this effect.
+take-down,normal,85,physical,-1,20,0,90,No,selected-pokemon,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+thrash,normal,100,physical,-1,10,0,120,No,random-opponent,Inflicts regular damage.  User is forced to attack with this move for 2–3 turns selected at random.  After the last hit  the user becomes confused.  safeguard does not protect against the confusion from this move.
+double-edge,normal,100,physical,-1,15,0,120,No,selected-pokemon,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.
+tail-whip,normal,100,status,-1,30,0,-1,No,all-opponents,Lowers the target's Defense by one stage.
+poison-sting,poison,100,physical,30,35,0,15,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to poison the target.
+twineedle,bug,100,physical,20,20,0,25,No,selected-pokemon,Inflicts regular damage.  Hits twice in the same turn.  Has a 20% chance to poison the target.
+pin-missile,bug,95,physical,-1,20,0,25,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+leer,normal,100,status,100,30,0,-1,No,all-opponents,Lowers the target's Defense by one stage.
+bite,dark,100,physical,30,25,0,60,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+growl,normal,100,status,-1,40,0,-1,No,all-opponents,Lowers the target's Attack by one stage.
+roar,normal,-1,status,-1,20,-6,-1,No,selected-pokemon,Switches the target out for another of its trainer's Pokémon selected at random.  Wild battles end immediately.  Doesn't affect Pokémon with suction cups or under the effect of ingrain.
+sing,normal,55,status,-1,15,0,-1,No,selected-pokemon,Puts the target to sleep.
+supersonic,normal,55,status,-1,20,0,-1,No,selected-pokemon,Confuses the target.
+sonic-boom,normal,90,special,-1,20,0,-1,No,selected-pokemon,Inflicts exactly 20 damage.
+disable,normal,100,status,-1,20,0,-1,No,selected-pokemon,Disables the target's last used move  preventing its use for 4–7 turns  selected at random  or until the target leaves the field.  If the target hasn't used a move since entering the field  if it tried to use a move this turn and failed   if its last used move has 0 PP remaining  or if it already has a move disabled  this move will fail.
+acid,poison,100,special,10,30,0,40,No,all-opponents,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+ember,fire,100,special,10,25,0,40,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to burn the target.
+flamethrower,fire,100,special,10,15,0,90,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to burn the target.
+mist,ice,-1,status,-1,30,0,-1,No,users-field,Pokémon on the user's side of the field are immune to stat-lowering effects for five turns.  guard swap  heart swap  and power swap may still be used.  defog used by an opponent will end this effect.
+water-gun,water,100,special,-1,25,0,40,No,selected-pokemon,Inflicts regular damage.
+hydro-pump,water,80,special,-1,5,0,110,No,selected-pokemon,Inflicts regular damage.
+surf,water,100,special,-1,15,0,90,No,all-other-pokemon,Inflicts regular damage.  If the target is in the first turn of dive  this move will hit with double power.
+ice-beam,ice,100,special,10,10,0,90,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to freeze the target.
+blizzard,ice,70,special,10,5,0,110,No,all-opponents,Inflicts regular damage.  Has a 10% chance to freeze the target.  During hail  this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.
+psybeam,psychic,100,special,10,20,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to confuse the target.
+bubble-beam,water,100,special,10,20,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.
+aurora-beam,ice,100,special,10,20,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage.
+hyper-beam,normal,90,special,-1,5,0,150,No,selected-pokemon,Inflicts regular damage.  User loses its next turn to "recharge"  and cannot attack or switch out during that turn.
+peck,flying,100,physical,-1,35,0,35,No,selected-pokemon,Inflicts regular damage.
+drill-peck,flying,100,physical,-1,20,0,80,No,selected-pokemon,Inflicts regular damage.
+submission,fighting,80,physical,-1,20,0,80,No,selected-pokemon,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+low-kick,fighting,100,physical,-1,20,0,-1,No,selected-pokemon,Inflicts regular damage.  Power increases with the target's weight in kilograms  to a maximum of 120.  Target's weight | Power --------------- | ----: Up to 10kg      |    20 Up to 25kg      |    40 Up to 50kg      |    60 Up to 100kg     |    80 Up to 200kg     |   100 Above 200kg     |   120 
+counter,fighting,100,physical,-1,20,-5,-1,No,specific-move,Targets the last opposing Pokémon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target  this move will fail.  Type immunity applies  but other type effects are ignored.  This move cannot be copied by mirror move  nor selected by assist or metronome.
+seismic-toss,fighting,100,physical,-1,20,0,-1,No,selected-pokemon,Inflicts damage equal to the user's level.  Type immunity applies  but other type effects are ignored.
+strength,normal,100,physical,-1,15,0,80,No,selected-pokemon,Inflicts regular damage.
+absorb,grass,100,special,-1,25,0,20,No,selected-pokemon,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+mega-drain,grass,100,special,-1,15,0,40,No,selected-pokemon,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+leech-seed,grass,90,status,-1,10,0,-1,No,selected-pokemon,Plants a seed on the target that drains 1/8 of its max HP at the end of every turn and heals the user for the amount taken.  Has no effect on grass Pokémon.  The seed remains until the target leaves the field.  The user takes damage instead of being healed if the target has liquid ooze.  rapid spin will remove this effect.  This effect is passed on by baton pass.
+growth,normal,-1,status,-1,20,0,-1,No,user,Raises the user's Attack and Special Attack by one stage each.  During sunny day  raises both stats by two stages.
+razor-leaf,grass,95,physical,-1,25,0,55,No,all-opponents,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+solar-beam,grass,100,special,-1,10,0,120,No,selected-pokemon,Inflicts regular damage.  User charges for one turn before attacking.  During sunny day  the charge turn is skipped.  During hail  rain dance  or sandstorm  power is halved.  This move cannot be selected by sleep talk.
+poison-powder,poison,75,status,-1,35,0,-1,No,selected-pokemon,Poisons the target.
+stun-spore,grass,75,status,-1,30,0,-1,No,selected-pokemon,Paralyzes the target.
+sleep-powder,grass,75,status,-1,15,0,-1,No,selected-pokemon,Puts the target to sleep.
+petal-dance,grass,100,special,-1,10,0,120,No,random-opponent,Inflicts regular damage.  User is forced to attack with this move for 2–3 turns selected at random.  After the last hit  the user becomes confused.  safeguard does not protect against the confusion from this move.
+string-shot,bug,95,status,-1,40,0,-1,No,all-opponents,Lowers the target's Speed by two stages.
+dragon-rage,dragon,100,special,-1,10,0,-1,No,selected-pokemon,Inflicts exactly 40 damage.
+fire-spin,fire,85,special,100,15,0,35,No,selected-pokemon,Inflicts regular damage.  For the next 2–5 turns  the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field  this effect ends.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.  rapid spin cancels this effect.
+thunder-shock,electric,100,special,10,30,0,40,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to paralyze the target.
+thunderbolt,electric,100,special,10,15,0,90,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to paralyze the target.
+thunder-wave,electric,90,status,-1,20,0,-1,No,selected-pokemon,Paralyzes the target.
+thunder,electric,70,special,30,10,0,110,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to paralyze the target.  During rain dance  this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.  During sunny day  this move has 50% accuracy.
+rock-throw,rock,90,physical,-1,15,0,50,No,selected-pokemon,Inflicts regular damage.
+earthquake,ground,100,physical,-1,10,0,100,No,all-other-pokemon,Inflicts regular damage.  If the target is in the first turn of dig  this move will hit with double power.
+fissure,ground,30,physical,-1,5,0,-1,No,selected-pokemon,Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target  this move will fail.  Because this move inflicts a specific and finite amount of damage  endure still prevents the target from fainting.  The effects of lock on  mind reader  and no guard still apply  as long as the user is equal or higher level than the target.  However  they will not give this move a chance to break through detect or protect.
+dig,ground,100,physical,-1,10,0,80,No,selected-pokemon,Inflicts regular damage.  User digs underground for one turn  becoming immune to attack  and hits on the second turn.  During the immune turn  earthquake  fissure  and magnitude still hit the user normally  and their power is doubled if appropriate.  The user may be hit during its immune turn if under the effect of lock on  mind reader  or no guard.  This move cannot be selected by sleep talk.
+toxic,poison,90,status,-1,10,0,-1,No,selected-pokemon,Badly poisons the target.  Never misses when used by a poison-type Pokémon.
+confusion,psychic,100,special,10,25,0,50,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to confuse the target.
+psychic,psychic,100,special,10,10,0,90,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+hypnosis,psychic,60,status,-1,20,0,-1,No,selected-pokemon,Puts the target to sleep.
+meditate,psychic,-1,status,-1,40,0,-1,No,user,Raises the user's Attack by one stage.
+agility,psychic,-1,status,-1,30,0,-1,No,user,Raises the user's Speed by two stages.
+quick-attack,normal,100,physical,-1,30,1,40,No,selected-pokemon,Inflicts regular damage.
+rage,normal,100,physical,-1,20,0,20,No,selected-pokemon,Inflicts regular damage.  Every time the user is hit after it uses this move but before its next action  its Attack raises by one stage.
+teleport,psychic,-1,status,-1,20,-6,-1,No,user,Does nothing.  Wild battles end immediately.
+night-shade,ghost,100,special,-1,15,0,-1,No,selected-pokemon,Inflicts damage equal to the user's level.  Type immunity applies  but other type effects are ignored.
+mimic,normal,-1,status,-1,10,0,-1,No,selected-pokemon,This move is replaced by the target's last successfully used move  and its PP changes to 5.  If the target hasn't used a move since entering the field  if it tried to use a move this turn and failed  or if the user already knows the targeted move  this move will fail.  This effect vanishes when the user leaves the field.  If chatter  metronome  mimic  sketch  or struggle is selected  this move will fail.  This move cannot be copied by mirror move  nor selected by assist or metronome  nor forced by encore.
+screech,normal,85,status,-1,40,0,-1,No,selected-pokemon,Lowers the target's Defense by two stages.
+double-team,normal,-1,status,-1,15,0,-1,No,user,Raises the user's evasion by one stage.
+recover,normal,-1,status,-1,5,0,-1,No,user,Heals the user for half its max HP.
+harden,normal,-1,status,-1,30,0,-1,No,user,Raises the user's Defense by one stage.
+minimize,normal,-1,status,-1,10,0,-1,No,user,Raises the user's evasion by two stages.  stomp and steamroller have double power against Pokémon that have used this move since entering the field.
+smokescreen,normal,100,status,-1,20,0,-1,No,selected-pokemon,Lowers the target's accuracy by one stage.
+confuse-ray,ghost,100,status,-1,10,0,-1,No,selected-pokemon,Confuses the target.
+withdraw,water,-1,status,-1,40,0,-1,No,user,Raises the user's Defense by one stage.
+defense-curl,normal,-1,status,-1,40,0,-1,No,user,Raises user's Defense by one stage.  After this move is used  the power of ice ball and rollout are doubled until the user leaves the field.
+barrier,psychic,-1,status,-1,20,0,-1,No,user,Raises the user's Defense by two stages.
+light-screen,psychic,-1,status,-1,30,0,-1,No,users-field,Erects a barrier around the user's side of the field that reduces damage from special attacks by half for five turns.  In double battles  the reduction is 1/3.  Critical hits are not affected by the barrier.  If the user is holding light clay  the barrier lasts for eight turns.  brick break or defog used by an opponent will destroy the barrier.
+haze,ice,-1,status,-1,30,0,-1,No,entire-field,Removes stat  accuracy  and evasion modifiers from every Pokémon on the field.  This does not count as a stat reduction for the purposes of clear body or white smoke.
+reflect,psychic,-1,status,-1,20,0,-1,No,users-field,Erects a barrier around the user's side of the field that reduces damage from physical attacks by half for five turns.  In double battles  the reduction is 1/3.  Critical hits are not affected by the barrier.  If the user is holding light clay  the barrier lasts for eight turns.  brick break or defog used by an opponent will destroy the barrier.
+focus-energy,normal,-1,status,-1,30,0,-1,No,user,User's critical hit rate is two levels higher until it leaves the field.  If the user has already used focus energy since entering the field  this move will fail.  This effect is passed on by baton pass.
+bide,normal,-1,physical,-1,10,1,-1,No,user,User waits for two turns.  On the second turn  the user inflicts twice the damage it accumulated on the last Pokémon to hit it.  Damage inflicted is typeless.  This move cannot be selected by sleep talk.
+metronome,normal,-1,status,-1,10,0,-1,No,user,Selects any move at random and uses it.  Moves the user already knows are not eligible.  Assist  meta  protection  and reflection moves are also not eligible; specifically  assist  chatter  copycat  counter  covet  destiny bond  detect  endure  feint  focus punch  follow me  helping hand  me first  metronome  mimic  mirror coat  mirror move  protect  quick guard  sketch  sleep talk  snatch  struggle  switcheroo  thief  trick  and wide guard will not be selected by this move.  This move cannot be copied by mimic or mirror move  nor selected by assist  metronome  or sleep talk.
+mirror-move,flying,-1,status,-1,20,0,-1,No,selected-pokemon,Uses the last move targeted at the user by a Pokémon still on the field.  A move counts as targeting the user even if it hit multiple Pokémon  as long as the user was one of them; however  moves targeting the field itself do not count.  If the user has not been targeted by an appropriate move since entering the field  or if no Pokémon that targeted the user remains on the field  this move will fail.  Moves that failed  missed  had no effect  or were blocked are still copied.  Assist moves  time-delayed moves  “meta” moves that operate on other moves/Pokémon/abilities  and some other special moves cannot be copied and are ignored; if the last move to hit the user was such a move  the previous move will be used instead.  The full list of ignored moves is: acid armor  acupressure  after you  agility  ally switch  amnesia  aqua ring  aromatherapy  aromatic mist  assist  autotomize  barrier  baton pass  belch  belly drum  bide  bulk up  calm mind  camouflage  celebrate  charge  coil  conversion  conversion 2  copycat  cosmic power  cotton guard  counter  crafty shield  curse  defend order  defense curl  destiny bond  detect  doom desire  double team  dragon dance  electric terrain  endure  final gambit  flower shield  focus energy  focus punch  follow me  future sight  geomancy  grassy terrain  gravity  growth  grudge  guard split  hail  happy hour  harden  haze  heal bell  heal order  heal pulse  healing wish  helping hand  hold hands  hone claws  howl  imprison  ingrain  ion deluge  iron defense  kings shield  light screen  lucky chant  lunar dance  magic coat  magnet rise  magnetic flux  mat block  me first  meditate  metronome  milk drink  mimic  minimize  mirror coat  mirror move  mist  misty terrain  moonlight  morning sun  mud sport  nasty plot  nature power  perish song  power split  power trick  protect  psych up  quick guard  quiver dance  rage powder  rain dance  recover  recycle  reflect  reflect type  refresh  rest  rock polish  role play  roost  rototiller  safeguard  sandstorm  shadow blast  shadow bolt  shadow half  shadow rush  shadow shed  shadow sky  shadow storm  shadow wave  sharpen  shell smash  shift gear  sketch  slack off  sleep talk  snatch  soft boiled  spikes  spiky shield  spit up  splash  stealth rock  sticky web  stockpile  struggle  substitute  sunny day  swallow  swords dance  synthesis  tail glow  tailwind  teleport  toxic spikes  transform  water sport  wide guard  wish  withdraw and work up.  This move cannot be selected by assist  metronome  or sleep talk  nor forced by encore.
+self-destruct,normal,100,physical,-1,5,0,200,No,all-other-pokemon,User faints  even if the attack fails or misses.  Inflicts regular damage.
+egg-bomb,normal,75,physical,-1,10,0,100,No,selected-pokemon,Inflicts regular damage.
+lick,ghost,100,physical,30,30,0,30,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+smog,poison,70,special,40,20,0,30,No,selected-pokemon,Inflicts regular damage.  Has a 40% chance to poison the target.
+sludge,poison,100,special,30,20,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to poison the target.
+bone-club,ground,85,physical,10,20,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to make the target flinch.
+fire-blast,fire,85,special,10,5,0,110,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to burn the target.
+waterfall,water,100,physical,20,15,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+clamp,water,85,physical,100,15,0,35,No,selected-pokemon,Inflicts regular damage.  For the next 2–5 turns  the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field  this effect ends.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.  rapid spin cancels this effect.
+swift,normal,-1,special,-1,20,0,60,No,all-opponents,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+skull-bash,normal,100,physical,100,10,0,130,No,selected-pokemon,Inflicts regular damage.  Raises the user's Defense by one stage.  User then charges for one turn before attacking.  This move cannot be selected by sleep talk.
+spike-cannon,normal,100,physical,-1,15,0,20,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+constrict,normal,100,physical,10,35,0,10,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.
+amnesia,psychic,-1,status,-1,20,0,-1,No,user,Raises the user's Special Defense by two stages.
+kinesis,psychic,80,status,-1,15,0,-1,No,selected-pokemon,Lowers the target's accuracy by one stage.
+soft-boiled,normal,-1,status,-1,5,0,-1,No,user,Heals the user for half its max HP.
+high-jump-kick,fighting,90,physical,-1,10,0,130,No,selected-pokemon,Inflicts regular damage. If this move misses  is blocked by protect or detect  or has no effect  the user takes damage equal to half of its max HP rounded down.  This move cannot be used while gravity is in effect.
+glare,normal,100,status,-1,30,0,-1,No,selected-pokemon,Paralyzes the target.
+dream-eater,psychic,100,special,-1,15,0,100,No,selected-pokemon,Fails if not used on a sleeping Pokémon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+poison-gas,poison,90,status,-1,40,0,-1,No,all-opponents,Poisons the target.
+barrage,normal,85,physical,-1,20,0,15,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+leech-life,bug,100,physical,-1,10,0,80,No,selected-pokemon,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+lovely-kiss,normal,75,status,-1,10,0,-1,No,selected-pokemon,Puts the target to sleep.
+sky-attack,flying,90,physical,30,5,0,140,No,selected-pokemon,Inflicts regular damage.  User charges for one turn before attacking.  Critical hit chance is one level higher than normal.  Has a 30% chance to make the target flinch.  This move cannot be selected by sleep talk.
+transform,normal,-1,status,-1,10,0,-1,No,selected-pokemon,User copies the target's species  weight  type  ability  calculated stats (except HP)  and moves.  Copied moves will all have 5 PP remaining.  IVs are copied for the purposes of hidden power  but stats are not recalculated.  choice band  choice scarf  and choice specs stay in effect  and the user must select a new move.  This move cannot be copied by mirror move  nor forced by encore.
+bubble,water,100,special,10,30,0,40,No,all-opponents,Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.
+dizzy-punch,normal,100,physical,20,10,0,70,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to confuse the target.
+spore,grass,100,status,-1,15,0,-1,No,selected-pokemon,Puts the target to sleep.
+flash,normal,100,status,-1,20,0,-1,No,selected-pokemon,Lowers the target's accuracy by one stage.
+psywave,psychic,100,special,-1,15,0,-1,No,selected-pokemon,Inflicts typeless damage between 50% and 150% of the user's level  selected at random in increments of 10%.
+splash,normal,-1,status,-1,40,0,-1,No,user,Does nothing.  This move cannot be used while gravity is in effect.
+acid-armor,poison,-1,status,-1,20,0,-1,No,user,Raises the user's Defense by two stages.
+crabhammer,water,90,physical,-1,10,0,100,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+explosion,normal,100,physical,-1,5,0,250,No,all-other-pokemon,User faints  even if the attack fails or misses.  Inflicts regular damage.
+fury-swipes,normal,80,physical,-1,15,0,18,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+bonemerang,ground,90,physical,-1,10,0,50,No,selected-pokemon,Inflicts regular damage.  Hits twice in one turn.
+rest,psychic,-1,status,-1,5,0,-1,No,user,User falls to sleep and immediately regains all its HP.  If the user has another major status effect  sleep will replace it.  The user will always wake up after two turns  or one turn with early bird.  This move fails if the Pokémon cannot fall asleep due to uproar  insomnia  or vital spirit.  It also fails if the Pokémon is at full health or is already asleep.
+rock-slide,rock,90,physical,30,10,0,75,No,all-opponents,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+hyper-fang,normal,90,physical,10,15,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to make the target flinch.
+sharpen,normal,-1,status,-1,30,0,-1,No,user,Raises the user's Attack by one stage.
+conversion,normal,-1,status,-1,30,0,-1,No,user,User's type changes to the type of one of its moves  selected at random.  hidden power and weather ball are treated as normal.  Only moves with a different type are eligible  and curse is never eligible.  If the user has no suitable moves  this move will fail.
+tri-attack,normal,100,special,20,10,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to burn  freeze  or paralyze the target.  One of these effects is selected at random; they do not each have independent chances to occur.
+super-fang,normal,90,physical,-1,10,0,-1,No,selected-pokemon,Inflicts typeless damage equal to half the target's remaining HP.
+slash,normal,100,physical,-1,20,0,70,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+substitute,normal,-1,status,-1,10,0,-1,No,user,Transfers 1/4 the user's max HP into a doll that absorbs damage and causes most negative move effects to fail.  If the user leaves the field  the doll will vanish.  If the user cannot pay the HP cost  this move will fail.  The doll takes damage as normal  using the user's stats and types  and will break when its HP reaches zero.  Self-inflicted damage from confusion or recoil is not absorbed.  Healing effects from opponents ignore the doll and heal the user as normal.  Moves that work based on the user's HP still do so; the doll's HP does not influence any move.  The doll will block major status effects  confusion  and flinching.  The effects of smelling salts and wake up slap do not trigger against a doll  even if the Pokémon behind the doll has the appropriate major status effect.  Multi-turn trapping moves like wrap will hit the doll for their regular damage  but the multi-turn trapping and damage effects will not activate.  Moves blocked or damage absorbed by the doll do not count as hitting the user or inflicting damage for any effects that respond to such  e.g.  avalanche  counter  or a rowap berry.  magic coat still works as normal  even against moves the doll would block.  Opposing Pokémon that damage the doll with a leech move like absorb are healed as normal.  It will also block acupressure  block  the curse effect of curse  dream eater  embargo  flatter  gastro acid  grudge  heal block  leech seed  lock on  mean look  mimic  mind reader  nightmare  pain split  psycho shift  spider web  sketch  swagger  switcheroo  trick  worry seed  and yawn.  A Pokémon affected by yawn before summoning the doll will still fall to sleep.  The doll blocks intimidate  but all other abilities act as though the doll did not exist.  If the user has an ability that absorbs moves of a certain type for HP (such as volt absorb absorbing thunder wave)  such moves will not be blocked.  life orb and berries that cause confusion still work as normal  but their respective HP loss and confusion are absorbed/blocked by the doll.  The user is still vulnerable to damage inflicted when entering or leaving the field  such as by pursuit or spikes; however  the doll will block the poison effect of toxic spikes.  The doll is passed on by baton pass.  It keeps its existing HP  but uses the replacement Pokémon's stats and types for damage calculation.  All other effects work as normal.
+struggle,normal,-1,physical,-1,1,0,50,No,random-opponent,Inflicts typeless regular damage.  User takes 1/4 its max HP in recoil.  Ignores accuracy and evasion modifiers.  This move is used automatically when a Pokémon cannot use any other move legally  e.g.  due to having no PP remaining or being under the effect of both encore and torment at the same time.  This move's recoil is not treated as recoil for the purposes of anything that affects recoil  such as the ability rock head.  It also is not prevented by magic guard.  This move cannot be copied by mimic  mirror move  or sketch  nor selected by assist or metronome  nor forced by encore.
+sketch,normal,-1,status,-1,1,0,-1,No,selected-pokemon,Permanently replaces itself with the target's last used move.  If that move is chatter or struggle  this move will fail.  This move cannot be copied by mimic or mirror move  nor selected by assist or metronome  nor forced by encore.
+triple-kick,fighting,90,physical,-1,10,0,10,No,selected-pokemon,Inflicts regular damage.  Hits three times in the same turn.  The second hit has double power  and the third hit has triple power.  Each hit has a separate accuracy check  and this move stops if a hit misses.  skill link does not apply.
+thief,dark,100,physical,-1,25,0,60,No,selected-pokemon,Inflicts regular damage.  If the target is holding an item and the user is not  the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.  Pokémon with sticky hold or multitype are immune to the item theft effect.  The target cannot recover its item with recycle.  This move cannot be selected by assist or metronome.
+spider-web,bug,-1,status,-1,10,0,-1,No,selected-pokemon,The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.  The target may still escape by using baton pass  u turn  or a shed shell.  Both the user and the target pass on this effect with baton pass.
+mind-reader,normal,-1,status,-1,5,0,-1,No,selected-pokemon,If the user targets the same target again before the end of the next turn  the move it uses is guaranteed to hit.  This move itself also ignores accuracy and evasion modifiers.  One-hit KO moves are also guaranteed to hit  as long as the user is equal or higher level than the target.  This effect also allows the user to hit Pokémon that are off the field due to moves such as dig or fly.  If the target uses detect or protect while under the effect of this move  the user is not guaranteed to hit  but has a (100 - accuracy)% chance to break through the protection.  This effect is passed on by baton pass.
+nightmare,ghost,100,status,-1,15,0,-1,No,selected-pokemon,Only works on sleeping Pokémon.  Gives the target a nightmare  damaging it for 1/4 its max HP every turn.  If the target wakes up or leaves the field  this effect ends.
+flame-wheel,fire,100,physical,10,25,0,60,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to burn the target.  Frozen Pokémon may use this move  in which case they will thaw.
+snore,normal,100,special,30,15,0,50,No,selected-pokemon,Only usable if the user is sleeping.  Inflicts regular damage.  Has a 30% chance to make the target flinch.
+curse,ghost,-1,status,-1,10,0,-1,No,specific-move,If the user is a ghost: user pays half its max HP to place a curse on the target  damaging it for 1/4 its max HP every turn. Otherwise: Lowers the user's Speed by one stage  and raises its Attack and Defense by one stage each.  The curse effect is passed on by baton pass.  This move cannot be copied by mirror move.
+flail,normal,100,physical,-1,15,0,-1,No,selected-pokemon,Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.  64 * current HP / max HP | Power -----------------------: | ----:  0– 1                    |  200  2– 5                    |  150  6–12                    |  100 13–21                    |   80 22–42                    |   40 43–64                    |   20 
+conversion-2,normal,-1,status,-1,30,0,-1,No,selected-pokemon,Changes the user's type to a type either resistant or immune to the last damaging move that hit it.  The new type is selected at random and cannot be a type the user already is.  If there is no eligible new type  this move will fail.
+aeroblast,flying,95,special,-1,5,0,100,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+cotton-spore,grass,100,status,-1,40,0,-1,No,all-opponents,Lowers the target's Speed by two stages.
+reversal,fighting,100,physical,-1,15,0,-1,No,selected-pokemon,Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.  64 * current HP / max HP | Power -----------------------: | ----:  0– 1                    |  200  2– 5                    |  150  6–12                    |  100 13–21                    |   80 22–42                    |   40 43–64                    |   20 
+spite,ghost,100,status,-1,10,0,-1,No,selected-pokemon,Lowers the PP of the target's last used move by 4.  If the target hasn't used a move since entering the field  if it tried to use a move this turn and failed  or if its last used move has 0 PP remaining  this move will fail.
+powder-snow,ice,100,special,10,25,0,40,No,all-opponents,Inflicts regular damage.  Has a 10% chance to freeze the target.
+protect,normal,-1,status,-1,10,4,-1,No,user,No moves will hit the user for the remainder of this turn.  If the user is last to act this turn  this move will fail.  If the user successfully used detect  endure  protect  quick guard  or wide guard on the last turn  this move has a 50% chance to fail.  lock on  mind reader  and no guard provide a (100 – accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure  guillotine  horn drill  and sheer cold); those are always blocked by this move.  thunder during rain dance and blizzard during hail have a 30% chance to break through this move.  The following effects are not prevented by this move:  * acupressure from an ally * curse's curse effect * Delayed damage from doom desire and future sight; however  these moves will be prevented if they are used this turn * feint  which will also end this move's protection after it hits * imprison * perish song * shadow force * Moves that merely copy the user  such as transform or psych up  This move cannot be selected by assist or metronome.
+mach-punch,fighting,100,physical,-1,30,1,40,No,selected-pokemon,Inflicts regular damage.
+scary-face,normal,100,status,-1,10,0,-1,No,selected-pokemon,Lowers the target's Speed by two stages.
+feint-attack,dark,-1,physical,-1,20,0,60,No,selected-pokemon,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+sweet-kiss,fairy,75,status,-1,10,0,-1,No,selected-pokemon,Confuses the target.
+belly-drum,normal,-1,status,-1,10,0,-1,No,user,User pays half its max HP to raise its Attack to +6 stages.  If the user cannot pay the HP cost  this move will fail.
+sludge-bomb,poison,100,special,30,10,0,90,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to poison the target.
+mud-slap,ground,100,special,100,10,0,20,No,selected-pokemon,Inflicts regular damage.  Has a 100% chance to lower the target's accuracy by one stage.
+octazooka,water,85,special,50,10,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage.
+spikes,ground,-1,status,-1,20,0,-1,No,opponents-field,Scatters spikes around the opposing field  which damage opposing Pokémon that enter the field for 1/8 of their max HP.  Pokémon immune to ground moves are immune to this damage  except during gravity.  Up to three layers of spikes may be laid down  adding 1/16 to the damage done: two layers of spikes damage for 3/16 max HP  and three layers damage for 1/4 max HP.  wonder guard does not block damage from this effect.  rapid spin removes this effect from its user's side of the field.  defog removes this effect from its target's side of the field.
+zap-cannon,electric,50,special,100,5,0,120,No,selected-pokemon,Inflicts regular damage.  Has a 100% chance to paralyze the target.
+foresight,normal,-1,status,-1,40,0,-1,No,selected-pokemon,Resets the target's evasion to normal and prevents any further boosting until the target leaves the field.  A ghost under this effect takes normal damage from normal and fighting moves.  This move itself ignores accuracy and evasion modifiers.
+destiny-bond,ghost,-1,status,-1,5,0,-1,No,user,If the user faints before its next move  the Pokémon that fainted it will automatically faint.  End-of-turn damage is ignored.  This move cannot be selected by assist or metronome.
+perish-song,normal,-1,status,-1,5,0,-1,No,all-pokemon,Every Pokémon is given a counter that starts at 3 and decreases by 1 at the end of every turn  including this one.  When a Pokémon's counter reaches zero  that Pokémon faints.  A Pokémon that leaves the field will lose its counter; its replacement does not inherit the effect  and other Pokémon's counters remain.  This effect is passed on by baton pass.  This move cannot be copied by mirror move.
+icy-wind,ice,95,special,100,15,0,55,No,all-opponents,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+detect,fighting,-1,status,-1,5,4,-1,No,user,No moves will hit the user for the remainder of this turn.  If the user is last to act this turn  this move will fail.  If the user successfully used detect  endure  protect  quick guard  or wide guard on the last turn  this move has a 50% chance to fail.  lock on  mind reader  and no guard provide a (100 – accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure  guillotine  horn drill  and sheer cold); those are always blocked by this move.  thunder during rain dance and blizzard during hail have a 30% chance to break through this move.  The following effects are not prevented by this move:  * acupressure from an ally * curse's curse effect * Delayed damage from doom desire and future sight; however  these moves will be prevented if they are used this turn * feint  which will also end this move's protection after it hits * imprison * perish song * shadow force * Moves that merely copy the user  such as transform or psych up  This move cannot be selected by assist or metronome.
+bone-rush,ground,90,physical,-1,10,0,25,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+lock-on,normal,-1,status,-1,5,0,-1,No,selected-pokemon,If the user targets the same target again before the end of the next turn  the move it uses is guaranteed to hit.  This move itself also ignores accuracy and evasion modifiers.  One-hit KO moves are also guaranteed to hit  as long as the user is equal or higher level than the target.  This effect also allows the user to hit Pokémon that are off the field due to moves such as dig or fly.  If the target uses detect or protect while under the effect of this move  the user is not guaranteed to hit  but has a (100 - accuracy)% chance to break through the protection.  This effect is passed on by baton pass.
+outrage,dragon,100,physical,-1,10,0,120,No,random-opponent,Inflicts regular damage.  User is forced to attack with this move for 2–3 turns selected at random.  After the last hit  the user becomes confused.  safeguard does not protect against the confusion from this move.
+sandstorm,rock,-1,status,-1,10,0,-1,No,entire-field,Changes the weather to a sandstorm for five turns.  Pokémon that are not ground  rock  or steel take 1/16 their max HP at the end of every turn.  Every rock Pokémon's original Special Defense is raised by 50% for the duration of this effect.  solar beam's power is halved.  moonlight  morning sun  and synthesis only heal 1/4 the user's max HP.
+giga-drain,grass,100,special,-1,10,0,75,No,selected-pokemon,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+endure,normal,-1,status,-1,10,4,-1,No,user,The user's HP cannot be lowered below 1 by any means for the remainder of this turn.  If the user successfully used detect  endure  protect  quick guard  or wide guard on the last turn  this move has a 50% chance to fail.  This move cannot be selected by assist or metronome.
+charm,fairy,100,status,-1,20,0,-1,No,selected-pokemon,Lowers the target's Attack by two stages.
+rollout,rock,90,physical,-1,20,0,30,No,selected-pokemon,Inflicts regular damage.  User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x  and resets to normal after the lock-in ends.  If this move misses or becomes unusable  the lock-in ends.  If the user has used defense curl since entering the field  this move has double power.
+false-swipe,normal,100,physical,-1,40,0,40,No,selected-pokemon,Inflicts regular damage.  Will not reduce the target's HP below 1.
+swagger,normal,85,status,-1,15,0,-1,No,selected-pokemon,Raises the target's Attack by two stages  then confuses it.  If the target's Attack cannot be raised by two stages  the confusion is not applied.
+milk-drink,normal,-1,status,-1,5,0,-1,No,user,Heals the user for half its max HP.
+spark,electric,100,physical,30,20,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+fury-cutter,bug,95,physical,-1,20,0,40,No,selected-pokemon,Inflicts regular damage.  Power doubles after every time this move is used  whether consecutively or not  maxing out at 16x.  If this move misses or the user leaves the field  power resets.
+steel-wing,steel,90,physical,10,25,0,70,No,selected-pokemon,Inflicts regular damage. Has a 10% chance to raise the user's Defense one stage.
+mean-look,normal,-1,status,-1,5,0,-1,No,selected-pokemon,The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.  The target may still escape by using baton pass  u turn  or a shed shell.  Both the user and the target pass on this effect with baton pass.
+attract,normal,100,status,-1,15,0,-1,No,selected-pokemon,Causes the target to fall in love with the user  giving it a 50% chance to do nothing each turn.  If the user and target are the same gender  or either is genderless  this move will fail.  If either Pokémon leaves the field  this effect ends.
+sleep-talk,normal,-1,status,-1,10,0,-1,No,user,Only usable if the user is sleeping.  Randomly selects and uses one of the user's other three moves.  Use of the selected move requires and costs 0 PP.  This move will not select assist  bide  bounce  chatter  copycat  dig  dive  fly  focus punch  me first  metronome  mirror move  shadow force  skull bash  sky attack  sky drop  sleep talk  solar beam  razor wind  or uproar.  If the selected move requires a recharge turn—i.e.  one of blast burn  frenzy plant  giga impact  hydro cannon  hyper beam  roar of time  or rock wrecker—and the user is still sleeping next turn  then it's forced to use this move again and pay another PP for the recharge turn.  This move cannot be copied by mirror move  nor selected by assist  metronome  or sleep talk.
+heal-bell,normal,-1,status,-1,5,0,-1,No,user-and-allies,Removes major status effects and confusion from every Pokémon in the user's party.
+return,normal,100,physical,-1,20,0,-1,No,selected-pokemon,Inflicts regular damage.  Power increases with happiness  given by `happiness * 2 / 5`  to a maximum of 102.  Power bottoms out at 1.
+present,normal,90,physical,-1,15,0,-1,No,selected-pokemon,Randomly uses one of the following effects.  Effect                                             | Chance -------------------------------------------------- | -----: Inflicts regular damage with 40 power  |    40% Inflicts regular damage with 80 power  |    30% Inflicts regular damage with 120 power |    10% Heals the target for 1/4 its max HP    |    20%  On average  this move inflicts regular damage with 52 power and heals the target for 1/20 its max HP.
+frustration,normal,100,physical,-1,20,0,-1,No,selected-pokemon,Inflicts regular damage.  Power increases inversely with happiness  given by `(255 - happiness) * 2 / 5`  to a maximum of 102.  Power bottoms out at 1.
+safeguard,normal,-1,status,-1,25,0,-1,No,users-field,Protects Pokémon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.  If yawn is used while this move is in effect  it will immediately fail.  defog used by an opponent will end this effect.  This effect does not prevent the confusion caused by outrage  petal dance  or thrash.
+pain-split,normal,-1,status,-1,20,0,-1,No,selected-pokemon,Changes the user's and target's remaining HP to the average of their current remaining HP.  Ignores accuracy and evasion modifiers.  This effect does not count as inflicting damage for other moves and effects that respond to damage taken.  This effect fails against a substitute.
+sacred-fire,fire,95,physical,50,5,0,100,No,selected-pokemon,Inflicts regular damage.  Has a 50% chance to burn the target.  Frozen Pokémon may use this move  in which case they will thaw.
+magnitude,ground,100,physical,-1,30,0,-1,No,all-other-pokemon,Inflicts regular damage.  Power is selected at random between 10 and 150  with an average of 71:  Magnitude | Power | Chance --------: | ----: | -----:         4 |    10 |     5%         5 |    30 |    10%         6 |    50 |    20%         7 |    70 |    30%         8 |    90 |    20%         9 |   110 |    10%        10 |   150 |     5%  This move has double power against Pokémon currently underground due to dig.
+dynamic-punch,fighting,50,physical,100,5,0,100,No,selected-pokemon,Inflicts regular damage.  Has a 100% chance to confuse the target.
+megahorn,bug,85,physical,-1,10,0,120,No,selected-pokemon,Inflicts regular damage.
+dragon-breath,dragon,100,special,30,20,0,60,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+baton-pass,normal,-1,status,-1,40,0,-1,No,user,User switches out  and the trainer selects a replacement Pokémon from the party.  Stat changes  confusion  and persistent move effects are passed along to the replacement Pokémon.  The following move effects are passed:  * aqua ring * both the user's and target's effect of block  mean look  and spider web * the curse effect of curse * embargo * focus energy or an activated lansat berry * gastro acid * ingrain * being sapped by leech seed * being targeted by lock on or mind reader * magnet rise * perish song's counter * power trick * substitute; the doll's HP is unchanged  The replacement Pokémon does not trigger effects that respond to Pokémon switching in.
+encore,normal,100,status,-1,5,0,-1,No,selected-pokemon,The next 4–8 times (selected at random) the target attempts to move  it is forced to repeat its last used move.  If the selected move allows the trainer to select a target  an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect  struggle will be used instead.  This effect ends if the selected move runs out of PP.  If the target hasn't used a move since entering the field  if it tried to use a move this turn and failed  if it does not know the selected move  or if the selected move has 0 PP remaining  this move will fail.  If the target's last used move was encore  mimic  mirror move  sketch  struggle  or transform  this move will fail.
+pursuit,dark,100,physical,-1,20,0,40,No,selected-pokemon,Inflicts regular damage.  If the target attempts to switch out this turn before the user acts  this move hits the target before it leaves and has double power.  This effect can still hit a Pokémon that switches out when it has a substitute up or when an ally has used follow me.
+rapid-spin,normal,100,physical,100,40,0,50,No,selected-pokemon,Inflicts regular damage.  Removes leech seed from the user  frees the user from bind  clamp  fire spin  magma storm  sand tomb  whirlpool  and wrap  and clears spikes  stealth rock  and toxic spikes from the user's side of the field.  If this move misses or has no effect  its effect doesn't activate.
+sweet-scent,normal,100,status,-1,20,0,-1,No,all-opponents,Lowers the target's evasion by one stage.
+iron-tail,steel,75,physical,30,15,0,100,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to lower the target's Defense by one stage.
+metal-claw,steel,95,physical,10,35,0,50,No,selected-pokemon,Inflicts regular damage. Has a 10% chance to raise the user's Attack one stage.
+vital-throw,fighting,-1,physical,-1,10,-1,70,No,selected-pokemon,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+morning-sun,normal,-1,status,-1,5,0,-1,No,user,Heals the user for half its max HP.  During sunny day  the healing is increased to 2/3 max HP.  During hail  rain dance  or sandstorm  the healing is decreased to 1/4 max HP.
+synthesis,grass,-1,status,-1,5,0,-1,No,user,Heals the user for half its max HP.  During sunny day  the healing is increased to 2/3 max HP.  During hail  rain dance  or sandstorm  the healing is decreased to 1/4 max HP.
+moonlight,fairy,-1,status,-1,5,0,-1,No,user,Heals the user for half its max HP.  During sunny day  the healing is increased to 2/3 max HP.  During hail  rain dance  or sandstorm  the healing is decreased to 1/4 max HP.
+hidden-power,normal,100,special,-1,15,0,60,No,selected-pokemon,Inflicts regular damage.  Power and type are determined by the user's IVs.  Power is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the IV for each of Special Defense  Special Attack  Speed  Defense  Attack  and HP in that order.  (Bit 1 is 1 if the IV is of the form `4n + 2` or `4n + 3`.  `x` is then 64 * Special Defense IV bit 1  plus 32 * Special Attack IV bit 1  etc.)  Power is always between 30 and 70  inclusive.  Average power is 49.5.  Type is given by `y * 15 / 63`  where `y` is similar to `x` above  except constructed from bit 0.  (Bit 0 is 1 if the IV is odd.)  The result is looked up in the following table.  Value | Type ----: | --------     0 | fighting     1 | flying     2 | poison     3 | ground     4 | rock     5 | bug     6 | ghost     7 | steel     8 | fire     9 | water    10 | grass    11 | electric    12 | psychic    13 | ice    14 | dragon    15 | dark  This move thus cannot be normal.  Most other types have an equal 1/16 chance to be selected  given random IVs.  However  due to the flooring used here  bug  fighting  and grass appear 5/64 of the time  and dark only 1/64 of the time.
+cross-chop,fighting,80,physical,-1,5,0,100,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+twister,dragon,100,special,20,20,0,40,No,all-opponents,Inflicts regular damage.  Has a 20% chance to make each target flinch.  If the target is under the effect of bounce  fly  or sky drop  this move will hit with double power.
+rain-dance,water,-1,status,-1,5,0,-1,No,entire-field,Changes the weather to rain for five turns  during which water moves inflict 50% extra damage  and fire moves inflict half damage.  If the user is holding damp rock  this effect lasts for eight turns.  thunder has 100% accuracy.  If the target has used detect or protect  thunder has a (100 - accuracy)% chance to break through the protection.  solar beam has half power.  moonlight  morning sun  and synthesis heal only 1/4 of the user's max HP.  Pokémon with swift swim have doubled original Speed.  Pokémon with forecast become water.  Pokémon with dry skin heal 1/8 max HP  Pokémon with hydration are cured of major status effects  and Pokémon with rain dish heal 1/16 max HP at the end of each turn.
+sunny-day,fire,-1,status,-1,5,0,-1,No,entire-field,Changes the weather to sunshine for five turns  during which fire moves inflict 50% extra damage  and water moves inflict half damage.  If the user is holding heat rock  this effect lasts for eight turns.  Pokémon cannot become frozen.  thunder has 50% accuracy.  solar beam skips its charge turn.  moonlight  morning sun  and synthesis heal 2/3 of the user's max HP.  Pokémon with chlorophyll have doubled original Speed.  Pokémon with forecast become fire.  Pokémon with leaf guard are not affected by major status effects.  Pokémon with flower gift change form; every Pokémon on their side of the field have their original Attack and Special Attack increased by 50%.  Pokémon with dry skin lose 1/8 max HP at the end of each turn.  Pokémon with solar power have their original Special Attack raised by 50% but lose 1/8 their max HP at the end of each turn.
+crunch,dark,100,physical,20,15,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to lower the target's Defense by one stage.
+mirror-coat,psychic,100,special,-1,20,-5,-1,No,specific-move,Targets the last opposing Pokémon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target  this move will fail.  Type immunity applies  but other type effects are ignored.  This move cannot be copied by mirror move  nor selected by assist or metronome.
+psych-up,normal,-1,status,-1,10,0,-1,No,selected-pokemon,Discards the user's stat changes and copies the target's.  This move cannot be copied by mirror move.
+extreme-speed,normal,100,physical,-1,5,2,80,No,selected-pokemon,Inflicts regular damage.
+ancient-power,rock,100,special,10,5,0,60,No,selected-pokemon,Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.
+shadow-ball,ghost,100,special,20,15,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to lower the target's Special Defense by one stage.
+future-sight,psychic,100,special,-1,10,0,120,No,selected-pokemon,Inflicts typeless regular damage at the end of the third turn  starting with this one.  This move cannot score a critical hit.  If the target switches out  its replacement will be hit instead.  Damage is calculated at the time this move is used; stat changes and switching out during the delay won't change the damage inflicted.  No move with this effect can be used against the same target again until after the end of the third turn.  This effect breaks through wonder guard.  If the target is protected by protect or detect on the turn this move is used  this move will fail.  However  the damage on the third turn will break through protection.  The damage is applied at the end of the turn  so it ignores endure and focus sash.  This move cannot be copied by mirror move.
+rock-smash,fighting,100,physical,50,15,0,40,No,selected-pokemon,Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.
+whirlpool,water,85,special,100,15,0,35,No,selected-pokemon,Inflicts regular damage.  For the next 2–5 turns  the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field  this effect ends.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.  If the target is in the first turn of dive  this move will hit with double power.
+beat-up,dark,100,physical,-1,10,0,-1,No,selected-pokemon,Inflicts typeless regular damage.  Every Pokémon in the user's party  excepting those that have fainted or have a major status effect  attacks the target.  Calculated stats are ignored; the base stats for the target and assorted attackers are used instead.  The random factor in the damage formula is not used.  dark Pokémon still get STAB.  This effect breaks through wonder guard.
+fake-out,normal,100,physical,100,10,3,40,No,selected-pokemon,Inflicts regular damage.  Causes the target to flinch.  Can only be used on the user's first turn after entering the field.
+uproar,normal,100,special,-1,10,0,90,No,random-opponent,Inflicts regular damage.  User is forced to use this move for 2–5 turns  selected at random.  All Pokémon on the field wake up  and none can fall to sleep until the lock-in ends.  Pokémon cannot use rest during this effect.  This move cannot be selected by sleep talk.
+stockpile,normal,-1,status,-1,20,0,-1,No,user,Raises the user's Defense and Special Defense by one stage each.  Stores energy for use with spit up and swallow.  Up to three levels of energy can be stored  and all are lost if the user leaves the field.  Energy is still stored even if the stat boosts cannot be applied.  If the user uses baton pass  the stat boosts are passed as normal  but the stored energy is not.
+spit-up,normal,100,special,-1,10,0,-1,No,selected-pokemon,Inflicts regular damage.  Power is equal to 100 times the amount of energy stored by stockpile.  Ignores the random factor in the damage formula.  Stored energy is consumed  and the user's Defense and Special Defense are reset to what they would be if stockpile had not been used.  If the user has no energy stored  this move will fail.  This move cannot be copied by mirror move.
+swallow,normal,-1,status,-1,10,0,-1,No,user,Heals the user depending on the amount of energy stored by stockpile: 1/4 its max HP after one use  1/2 its max HP after two uses  or fully after three uses.  Stored energy is consumed  and the user's Defense and Special Defense are reset to what they would be if stockpile had not been used.  If the user has no energy stored  this move will fail.
+heat-wave,fire,90,special,10,10,0,95,No,all-opponents,Inflicts regular damage.  Has a 10% chance to burn the target.
+hail,ice,-1,status,-1,10,0,-1,No,entire-field,Changes the weather to hail for five turns  during which non-ice Pokémon are damaged for 1/16 their max HP at the end of every turn.  If the user is holding icy rock  this effect lasts for eight turns.  blizzard has 100% accuracy.  If the target has used detect or protect  blizzard has a (100 - accuracy)% chance to break through the protection.  moonlight  morning sun  and synthesis heal only 1/4 of the user's max HP.  Pokémon with snow cloak are exempt from this effect's damage.
+torment,dark,100,status,-1,15,0,-1,No,selected-pokemon,Prevents the target from attempting to use the same move twice in a row.  When the target leaves the field  this effect ends.  If the target is forced to attempt a repeated move due to choice band  choice scarf  choice specs  disable  encore  taunt  only having PP remaining for one move  or any other effect  the target will use struggle instead.  The target is then free to use the forced move next turn  as it didn't use that move this turn.
+flatter,dark,100,status,-1,15,0,-1,No,selected-pokemon,Raises the target's Special Attack by one stage  then confuses it.
+will-o-wisp,fire,85,status,-1,15,0,-1,No,selected-pokemon,Burns the target.
+memento,dark,100,status,-1,10,0,-1,No,selected-pokemon,Lowers the target's Attack and Special Attack by two stages.  User faints.
+facade,normal,100,physical,-1,20,0,70,No,selected-pokemon,Inflicts regular damage.  If the user is burned  paralyzed  or poisoned  this move has double power.
+focus-punch,fighting,100,physical,-1,20,-3,150,No,selected-pokemon,Inflicts regular damage.  If the user takes damage this turn before hitting  this move will fail.  This move cannot be copied by mirror move  nor selected by assist  metronome  or sleep talk.
+smelling-salts,normal,100,physical,-1,10,0,70,No,selected-pokemon,Inflicts regular damage.  If the target is paralyzed  this move has double power  and the target is cured of its paralysis.
+follow-me,normal,-1,status,-1,20,2,-1,No,user,Until the end of this turn  any moves that opposing Pokémon target solely at the user's ally will instead target the user.  If both Pokémon on the same side of the field use this move on the same turn  the Pokémon that uses it last will become the target.  This effect takes priority over lightning rod and storm drain.  If the user's ally switches out  opposing Pokémon may still hit it with pursuit.  This move cannot be selected by assist or metronome.
+nature-power,normal,-1,status,-1,20,0,-1,No,selected-pokemon,Uses another move chosen according to the terrain.  Terrain                   | Selected move ------------------------- | ------------------ Building                  | tri attack Cave                      | rock slide Deep water                | hydro pump Desert                    | earthquake Grass                     | seed bomb Mountain                  | rock slide Road                      | earthquake Shallow water             | hydro pump Snow                      | blizzard Tall grass                | seed bomb electric terrain | thunderbolt grassy terrain   | energy ball misty terrain    | moonblast  In Pokémon Battle Revolution:  Terrain        | Selected move -------------- | ------------------ Courtyard      | tri attack Crystal        | rock slide Gateway        | hydro pump Magma          | rock slide Main Street    | tri attack Neon           | tri attack Stargazer      | rock slide Sunny Park     | seed bomb Sunset         | earthquake Waterfall      | seed bomb  This move cannot be copied by mirror move.
+charge,electric,-1,status,-1,20,0,-1,No,user,Raises the user's Special Defense by one stage.  If the user uses an electric move next turn  its power will be doubled.
+taunt,dark,100,status,-1,20,0,-1,No,selected-pokemon,Target is forced to only use damaging moves for the next 3–5 turns  selected at random.  Moves that select other moves not known in advance do not count as damaging.  assist  copycat  me first  metronome  mirror move  and sleep talk do not directly inflict damage and thus may not be used.  bide  counter  endeavor  metal burst  and mirror coat are allowed.
+helping-hand,normal,-1,status,-1,20,5,-1,No,ally,Boosts the power of the target's moves by 50% until the end of this turn.  This move cannot be copied by mirror move  nor selected by assist or metronome.
+trick,psychic,100,status,-1,10,0,-1,No,selected-pokemon,User and target permanently swap held items.  Works even if one of the Pokémon isn't holding anything.  If either Pokémon is holding mail  this move will fail.  If either Pokémon has multitype or sticky hold  this move will fail.  If this move results in a Pokémon obtaining choice band  choice scarf  or choice specs  and that Pokémon was the latter of the pair to move this turn  then the move it used this turn becomes its chosen forced move.  This applies even if both Pokémon had a choice item before this move was used.  If the first of the two Pokémon gains a choice item  it may select whatever choice move it wishes next turn.  Neither the user nor the target can recover its item with recycle.  This move cannot be selected by assist or metronome.
+role-play,psychic,-1,status,-1,10,0,-1,No,selected-pokemon,User's ability is replaced with the target's until the user leaves the field.  Ignores accuracy and evasion modifiers.  If the target has flower gift  forecast  illusion  imposter  multitype  stance change  trace  wonder guard  or zen mode  this move will fail.  This move cannot be copied by mirror move.
+wish,normal,-1,status,-1,10,0,-1,No,user,At the end of the next turn  user will be healed for half its max HP.  If the user is switched out  its replacement will be healed instead for half of the user's max HP.  If the user faints or is forcefully switched by roar or whirlwind  this effect will not activate.
+assist,normal,-1,status,-1,20,0,-1,No,user,Uses a move from another Pokémon in the user's party  both selected at random.  Moves from fainted Pokémon can be used.  If there are no eligible Pokémon or moves  this move will fail.  This move will not select assist  chatter  circle throw  copycat  counter  covet  destiny bond  detect  dig  dive  dragon tail  endure  feint  fly focus punch  follow me  helping hand  me first  metronome  mimic  mirror coat  mirror move  phantom force protect  quick guard  roar shadow force  sketch  sleep talk  snatch  struggle  switcheroo  thief  trick  whirlwind  or wide guard.  This move cannot be copied by mirror move  nor selected by metronome or sleep talk.
+ingrain,grass,-1,status,-1,20,0,-1,No,user,Prevents the user from switching out.  User regains 1/16 of its max HP at the end of every turn.  If the user was immune to ground attacks  it will now take normal damage from them.  roar and whirlwind will not affect the user.  The user cannot use magnet rise.  The user may still use u turn to leave the field.  This effect can be passed with baton pass.
+superpower,fighting,100,physical,100,5,0,120,No,selected-pokemon,Inflicts regular damage  then lowers the user's Attack and Defense by one stage each.
+magic-coat,psychic,-1,status,-1,15,4,-1,No,user,The first non-damaging move targeting the user this turn that inflicts major status effects  stat changes  or trapping effects will be reflected at its user.  defog  memento  and teeter dance are not reflected.  attract  flatter  gastro acid  leech seed  swagger  worry seed  and yawn are reflected.  This move cannot be copied by mirror move.
+recycle,normal,-1,status,-1,10,0,-1,No,user,User recovers the last item consumed by the user or a Pokémon in its position on the field.  The item must be used again before it can be recovered by this move again.  If the user is holding an item  this move fails.  Items taken or given away by covet  knock off  switcheroo  thief  or trick may not be recovered.
+revenge,fighting,100,physical,-1,10,-4,60,No,selected-pokemon,Inflicts regular damage.  If the target damaged the user this turn and was the last to do so  this move has double power.  pain split does not count as damaging the user.
+brick-break,fighting,100,physical,-1,15,0,75,No,selected-pokemon,Destroys any light screen or reflect on the target's side of the field  then inflicts regular damage.
+yawn,normal,-1,status,-1,10,0,-1,No,selected-pokemon,Puts the target to sleep at the end of the next turn.  Ignores accuracy and evasion modifiers.  If the target leaves the field  this effect is canceled.  If the target has a status effect when this move is used  this move will fail.  If the target is protected by safeguard when this move is used  this move will fail.  insomnia and vital spirit prevent the sleep if the target has either at the end of the next turn  but will not cause this move to fail on use.
+knock-off,dark,100,physical,-1,20,0,65,No,selected-pokemon,Inflicts regular damage.  Target loses its held item.  Neither the user nor the target can recover its item with recycle.  If the target has multitype or sticky hold  it will take damage but not lose its item.
+endeavor,normal,100,physical,-1,5,0,-1,No,selected-pokemon,Inflicts exactly enough damage to lower the target's HP to equal the user's.  If the target's HP is not higher than the user's  this move has no effect.  Type immunity applies  but other type effects are ignored.  This effect counts as damage for moves that respond to damage.
+eruption,fire,100,special,-1,5,0,150,No,all-opponents,Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`  to a maximum of 150 when the user has full HP.
+skill-swap,psychic,-1,status,-1,10,0,-1,No,selected-pokemon,User and target switch abilities.  Ignores accuracy and evasion modifiers.  If either Pokémon has multitype or wonder guard  this move will fail.
+imprison,psychic,-1,status,-1,10,0,-1,No,user,Prevents any Pokémon on the opposing side of the field from using any move the user knows until the user leaves the field.  This effect is live; if the user obtains new moves while on the field  these moves become restricted.  If no opposing Pokémon knows any of the user's moves when this move is used  this move will fail.
+refresh,normal,-1,status,-1,20,0,-1,No,user,Removes a burn  paralysis  or poison from the user.
+grudge,ghost,-1,status,-1,5,0,-1,No,user,If the user faints before it next acts  the move that fainted it will have its PP dropped to 0.  End-of-turn damage does not trigger this effect.
+snatch,dark,-1,status,-1,10,4,-1,No,user,The next time a Pokémon uses a beneficial move on itself or itself and its ally this turn  the user of this move will steal the move and use it itself.  Moves which may be stolen by this move are identified by the "snatchable" flag.  If two Pokémon use this move on the same turn  the faster Pokémon will steal the first beneficial move  and the slower Pokémon will then steal it again—thus  only the slowest Pokémon using this move ultimately gains a stolen move's effect.  If the user steals psych up  it will target the Pokémon that used psych up.  If the user was the original target of psych up  and the Pokémon that originally used it's affected by pressure  it will only lose 1 PP.  This move cannot be copied by mirror move  nor selected by assist or metronome.
+secret-power,normal,100,physical,30,20,0,70,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to inflict an effect chosen according to the terrain.  Terrain        | Effect -------------- | ------------------------------------------------------------- Building       | Paralyzes target Cave           | Makes target flinch Deep water     | Lowers target's Attack by one stage Desert         | Lowers target's accuracy by one stage Grass          | Puts target to sleep Mountain       | Makes target flinch Road           | Lowers target's accuracy by one stage Shallow water  | Lowers target's Attack by one stage Snow           | Freezes target Tall grass     | Puts target to sleep  In Pokémon Battle Revolution:  Terrain        | Effect -------------- | ------------------------------------------------------------- Courtyard      | Paralyzes target Crystal        | Makes target flinch Gateway        | Lowers target's Attack by one stage Magma          | Makes target flinch Main Street    | Paralyzes target Neon           | Paralyzes target Stargazer      | Makes target flinch Sunny Park     | Puts target to sleep Sunset         | Lowers target's accuracy by one stage Waterfall      | Puts target to sleep 
+dive,water,100,physical,-1,10,0,80,No,selected-pokemon,Inflicts regular damage.  User dives underwater for one turn  becoming immune to attack  and hits on the second turn.  During the immune turn  surf  and whirlpool still hit the user normally  and their power is doubled if appropriate.  The user may be hit during its immune turn if under the effect of lock on  mind reader  or no guard.  This move cannot be selected by sleep talk.
+arm-thrust,fighting,100,physical,-1,20,0,15,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+camouflage,normal,-1,status,-1,20,0,-1,No,user,User's type changes according to the terrain.  Terrain        | New type -------------- | -------------- Building       | normal Cave           | rock Desert         | ground Grass          | grass Mountain       | rock Ocean          | water Pond           | water Road           | ground Snow           | ice Tall grass     | grass  In Pokémon Battle Revolution:  Terrain        | New type -------------- | -------------- Courtyard      | normal Crystal        | rock Gateway        | water Magma          | rock Main Street    | normal Neon           | normal Stargazer      | rock Sunny Park     | grass Sunset         | ground Waterfall      | grass 
+tail-glow,bug,-1,status,-1,20,0,-1,No,user,Raises the user's Special Attack by three stages.
+luster-purge,psychic,100,special,50,5,0,95,No,selected-pokemon,Inflicts regular damage.  Has a 50% chance to lower the target's Special Defense by one stage.
+mist-ball,psychic,100,special,50,5,0,95,No,selected-pokemon,Inflicts regular damage.  Has a 50% chance to lower the target's Special Attack by one stage.
+feather-dance,flying,100,status,-1,15,0,-1,No,selected-pokemon,Lowers the target's Attack by two stages.
+teeter-dance,normal,100,status,-1,20,0,-1,No,all-other-pokemon,Confuses all targets.
+blaze-kick,fire,90,physical,10,10,0,85,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to burn the target.
+mud-sport,ground,-1,status,-1,15,0,-1,No,entire-field,electric moves inflict half damage  regardless of target.  If the user leaves the field  this effect ends.
+ice-ball,ice,90,physical,-1,20,0,30,No,selected-pokemon,Inflicts regular damage.  User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x  and resets to normal after the lock-in ends.  If this move misses or becomes unusable  the lock-in ends.  If the user has used defense curl since entering the field  this move has double power.
+needle-arm,grass,100,physical,30,15,0,60,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+slack-off,normal,-1,status,-1,5,0,-1,No,user,Heals the user for half its max HP.
+hyper-voice,normal,100,special,-1,10,0,90,No,all-opponents,Inflicts regular damage.
+poison-fang,poison,100,physical,50,15,0,50,No,selected-pokemon,Inflicts regular damage.  Has a 50% chance to badly poison the target.
+crush-claw,normal,95,physical,50,10,0,75,No,selected-pokemon,Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.
+blast-burn,fire,90,special,-1,5,0,150,No,selected-pokemon,Inflicts regular damage.  User loses its next turn to "recharge"  and cannot attack or switch out during that turn.
+hydro-cannon,water,90,special,-1,5,0,150,No,selected-pokemon,Inflicts regular damage.  User loses its next turn to "recharge"  and cannot attack or switch out during that turn.
+meteor-mash,steel,90,physical,20,10,0,90,No,selected-pokemon,Inflicts regular damage. Has a 20% chance to raise the user's Attack one stage.
+astonish,ghost,100,physical,30,15,0,30,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+weather-ball,normal,100,special,-1,10,0,50,No,selected-pokemon,Inflicts regular damage.  If a weather move is active  this move has double power  and its type becomes the type of the weather move.  shadow sky is typeless for the purposes of this move.
+aromatherapy,grass,-1,status,-1,5,0,-1,No,user-and-allies,Removes major status effects and confusion from every Pokémon in the user's party.
+fake-tears,dark,100,status,-1,20,0,-1,No,selected-pokemon,Lowers the target's Special Defense by two stages.
+air-cutter,flying,95,special,-1,25,0,60,No,all-opponents,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+overheat,fire,90,special,100,5,0,130,No,selected-pokemon,Inflicts regular damage  then lowers the user's Special Attack by two stages.
+odor-sleuth,normal,-1,status,-1,40,0,-1,No,selected-pokemon,Resets the target's evasion to normal and prevents any further boosting until the target leaves the field.  A ghost under this effect takes normal damage from normal and fighting moves.  This move itself ignores accuracy and evasion modifiers.
+rock-tomb,rock,95,physical,100,15,0,60,No,selected-pokemon,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+silver-wind,bug,100,special,10,5,0,60,No,selected-pokemon,Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.
+metal-sound,steel,85,status,-1,40,0,-1,No,selected-pokemon,Lowers the target's Special Defense by two stages.
+grass-whistle,grass,55,status,-1,15,0,-1,No,selected-pokemon,Puts the target to sleep.
+tickle,normal,100,status,-1,20,0,-1,No,selected-pokemon,Lowers the target's Attack and Defense by one stage.
+cosmic-power,psychic,-1,status,-1,20,0,-1,No,user,Raises the user's Defense and Special Defense by one stage.
+water-spout,water,100,special,-1,5,0,150,Yes,all-opponents,Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`  to a maximum of 150 when the user has full HP.
+signal-beam,bug,100,special,10,15,0,75,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to confuse the target.
+shadow-punch,ghost,-1,physical,-1,20,0,60,No,selected-pokemon,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+extrasensory,psychic,100,special,10,20,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to make the target flinch.
+sky-uppercut,fighting,90,physical,-1,15,0,85,No,selected-pokemon,Inflicts regular damage.  This move can hit Pokémon under the effect of bounce  fly  or sky drop.
+sand-tomb,ground,85,physical,100,15,0,35,No,selected-pokemon,Inflicts regular damage.  For the next 2–5 turns  the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field  this effect ends.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.  rapid spin cancels this effect.
+sheer-cold,ice,30,special,-1,5,0,-1,No,selected-pokemon,Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target  this move will fail.  Because this move inflicts a specific and finite amount of damage  endure still prevents the target from fainting.  The effects of lock on  mind reader  and no guard still apply  as long as the user is equal or higher level than the target.  However  they will not give this move a chance to break through detect or protect.
+muddy-water,water,85,special,30,10,0,90,No,all-opponents,Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.
+bullet-seed,grass,100,physical,-1,30,0,25,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+aerial-ace,flying,-1,physical,-1,20,0,60,No,selected-pokemon,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+icicle-spear,ice,100,physical,-1,30,0,25,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+iron-defense,steel,-1,status,-1,15,0,-1,No,user,Raises the user's Defense by two stages.
+block,normal,-1,status,-1,5,0,-1,No,selected-pokemon,The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.  The target may still escape by using baton pass  u turn  or a shed shell.  Both the user and the target pass on this effect with baton pass.
+howl,normal,-1,status,-1,40,0,-1,No,user-and-allies,Raises the user's Attack by one stage.
+dragon-claw,dragon,100,physical,-1,15,0,80,No,selected-pokemon,Inflicts regular damage.
+frenzy-plant,grass,90,special,-1,5,0,150,No,selected-pokemon,Inflicts regular damage.  User loses its next turn to "recharge"  and cannot attack or switch out during that turn.
+bulk-up,fighting,-1,status,-1,20,0,-1,No,user,Raises the user's Attack and Defense by one stage each.
+bounce,flying,85,physical,30,5,0,85,No,selected-pokemon,Inflicts regular damage.  User bounces high into the air for one turn  becoming immune to attack  and hits on the second turn.  Has a 30% chance to paralyze the target.  During the immune turn  gust  hurricane  sky uppercut  smack down  thunder  and twister still hit the user normally.  gust and twister also have double power against the user.  The damage from hail and sandstorm still applies during the immune turn.  The user may be hit during its immune turn if under the effect of lock on  mind reader  or no guard.  This move cannot be used while gravity is in effect.  This move cannot be selected by sleep talk.
+mud-shot,ground,95,special,100,15,0,55,No,selected-pokemon,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+poison-tail,poison,100,physical,10,25,0,50,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to poison the target.
+covet,normal,100,physical,-1,25,0,60,No,selected-pokemon,Inflicts regular damage.  If the target is holding an item and the user is not  the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.  Pokémon with sticky hold or multitype are immune to the item theft effect.  The target cannot recover its item with recycle.  This move cannot be selected by assist or metronome.
+volt-tackle,electric,100,physical,10,15,0,120,No,selected-pokemon,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.  Has a 10% chance to paralyze the target.
+magical-leaf,grass,-1,special,-1,20,0,60,No,selected-pokemon,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+water-sport,water,-1,status,-1,15,0,-1,No,entire-field,fire moves inflict half damage  regardless of target.  If the user leaves the field  this effect ends.
+calm-mind,psychic,-1,status,-1,20,0,-1,No,user,Raises the user's Special Attack and Special Defense by one stage each.
+leaf-blade,grass,100,physical,-1,15,0,90,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+dragon-dance,dragon,-1,status,-1,20,0,-1,No,user,Raises the user's Attack and Speed by one stage each.
+rock-blast,rock,90,physical,-1,10,0,25,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+shock-wave,electric,-1,special,-1,20,0,60,No,selected-pokemon,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+water-pulse,water,100,special,20,20,0,60,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to confuse the target.
+doom-desire,steel,100,special,-1,5,0,140,No,selected-pokemon,Inflicts typeless regular damage at the end of the third turn  starting with this one.  This move cannot score a critical hit.  If the target switches out  its replacement will be hit instead.  Damage is calculated at the time this move is used; stat changes and switching out during the delay won't change the damage inflicted.  No move with this effect can be used against the same target again until after the end of the third turn.  This effect breaks through wonder guard.  If the target is protected by protect or detect on the turn this move is used  this move will fail.  However  the damage on the third turn will break through protection.  The damage is applied at the end of the turn  so it ignores endure and focus sash.  This move cannot be copied by mirror move.
+psycho-boost,psychic,90,special,100,5,0,140,No,selected-pokemon,Inflicts regular damage  then lowers the user's Special Attack by two stages.
+roost,flying,-1,status,-1,5,0,-1,No,user,Heals the user for half its max HP.  If the user is flying  its flying type is ignored until the end of this turn.
+gravity,psychic,-1,status,-1,5,0,-1,No,entire-field,For five turns (including this one)  all immunities to ground moves are disabled.  For the duration of this effect  the evasion of every Pokémon on the field is lowered by two stages.  Cancels the effects of bounce  fly  and sky drop.  Specifically  flying Pokémon and those with levitate or that have used magnet rise are no longer immune to ground attacks  arena trap  spikes  or toxic spikes.  bounce  fly  sky drop  high jump kick  jump kick  and splash cannot be used while this move is in effect.  *Bug*: If this move is used during a double or triple battle while Pokémon are under the effect of sky drop  Sky Drop's effect is not correctly canceled on its target  and it remains high in the air indefinitely.  As Sky Drop prevents the target from acting  the only way to subsequently remove it from the field is to faint it.
+miracle-eye,psychic,-1,status,-1,40,0,-1,No,selected-pokemon,Resets the target's evasion to normal and prevents any further boosting until the target leaves the field.  A dark Pokémon under this effect takes normal damage from psychic moves.  This move itself ignores accuracy and evasion modifiers.
+wake-up-slap,fighting,100,physical,-1,10,0,70,No,selected-pokemon,Inflicts regular damage.  If the target is sleeping  this move has double power  and the target wakes up.
+hammer-arm,fighting,90,physical,100,10,0,100,No,selected-pokemon,Inflicts regular damage  then lowers the user's Speed by one stage.
+gyro-ball,steel,100,physical,-1,5,0,-1,No,selected-pokemon,Inflicts regular damage.  Power increases with the target's current Speed compared to the user  given by `1 + 25 * target Speed / user Speed`  capped at 150.
+healing-wish,psychic,-1,status,-1,10,0,-1,No,user,User faints.  Its replacement's HP is fully restored  and any major status effect is removed.  If the replacement Pokémon is immediately fainted by a switch-in effect  the next replacement is healed by this move instead.
+brine,water,100,special,-1,10,0,65,No,selected-pokemon,Inflicts regular damage.  If the target has less than half its max HP remaining  this move has double power.
+natural-gift,normal,100,physical,-1,15,0,-1,No,selected-pokemon,Inflicts regular damage.  Power and type are determined by the user's held berry.  The berry is consumed.  If the user is not holding a berry  this move will fail.
+feint,normal,100,physical,-1,10,2,30,No,selected-pokemon,Inflicts regular damage.  Removes the effects of detect or protect from the target before hitting.  This move cannot be copied by mirror move  nor selected by assist or metronome.
+pluck,flying,100,physical,-1,20,0,60,No,selected-pokemon,Inflicts regular damage.  If the target is holding a berry  this move has double power  and the user takes the berry and uses it immediately.  If the target is holding a jaboca berry or rowap berry  the berry is still removed  but has no effect.  If this move is super effective and the target is holding a berry that can reduce this move's damage  it will do so  and will not be stolen.
+tailwind,flying,-1,status,-1,15,0,-1,No,users-field,For the next three turns  all Pokémon on the user's side of the field have their original Speed doubled.  This effect remains if the user leaves the field.
+acupressure,normal,-1,status,-1,30,0,-1,No,user-or-ally,Raises one of the target's stats by two stages.  The raised stat is chosen at random from any stats that can be raised by two stages.  If no stat is eligible  this move will fail.  If the target has a substitute  this move will have no effect  even if the user is the target.  This move cannot be copied by mirror move.
+metal-burst,steel,100,physical,-1,10,0,-1,No,specific-move,Targets the last opposing Pokémon to hit the user with a damaging move this turn.  Inflicts 1.5× the damage that move did to the user.  If there is no eligible target  this move will fail.  Type immunity applies  but other type effects are ignored.
+u-turn,bug,100,physical,-1,20,0,70,No,selected-pokemon,Inflicts regular damage  then the user immediately switches out  and the trainer selects a replacement Pokémon from the party.  If the target faints from this attack  the user's trainer selects the new Pokémon to send out first.  If the user is the last Pokémon in its party that can battle  it will not switch out.  The user may be hit by pursuit when it switches out  if it has been targeted and pursuit has not yet been used.  This move may be used even if the user is under the effect of ingrain.  ingrain's effect will end.
+close-combat,fighting,100,physical,100,5,0,120,No,selected-pokemon,Inflicts regular damage  then lowers the user's Defense and Special Defense by one stage each.
+payback,dark,100,physical,-1,10,0,50,No,selected-pokemon,Inflicts regular damage.  If the target uses a move or switches out this turn before this move is used  this move has double power.
+assurance,dark,100,physical,-1,10,0,60,No,selected-pokemon,Inflicts regular damage.  If the target takes damage this turn for any reason before this move is used  this move has double power.
+embargo,dark,100,status,-1,15,0,-1,No,selected-pokemon,Target cannot use its held item for five turns.  If the target leaves the field  this effect ends.  If a Pokémon under this effect uses bug bite or pluck on a Pokémon holding a berry  the berry is destroyed but not used.  If a Pokémon under this effect uses fling  it will fail.  This effect is passed by baton pass.
+fling,dark,100,physical,-1,10,0,-1,No,selected-pokemon,Inflicts regular damage.  Power and type are determined by the user's held item.  The item is consumed.  If the user is not holding an item  or its item has no set type and power  this move will fail.  This move ignores sticky hold.  If the user is under the effect of embargo  this move will fail.
+psycho-shift,psychic,100,status,-1,10,0,-1,No,selected-pokemon,If the user has a major status effect and the target does not  the user's status is transferred to the target.
+trump-card,normal,-1,special,-1,5,0,-1,No,selected-pokemon,Inflicts regular damage.  Power is determined by the PP remaining for this move  after its PP cost is deducted.  Ignores accuracy and evasion modifiers.  PP remaining | Power ------------ | ----: 4 or more    |    40 3            |    50 2            |    60 1            |    80 0            |   200  If this move is activated by another move  the activating move's PP is used to calculate power.
+heal-block,psychic,100,status,-1,15,0,-1,No,all-opponents,For the next five turns  the target may not use any moves that only restore HP  and move effects that heal the target are disabled.  Moves that steal HP may still be used  but will only inflict damage and not heal the target.
+wring-out,normal,100,special,-1,5,0,-1,No,selected-pokemon,Inflicts regular damage.  Power directly relates to the target's relative remaining HP  given by `1 + 120 * current HP / max HP`  to a maximum of 121.
+power-trick,psychic,-1,status,-1,10,0,-1,No,user,The user's original Attack and Defense are swapped.  This effect is passed on by baton pass.
+gastro-acid,poison,100,status,-1,10,0,-1,No,selected-pokemon,The target's ability is disabled as long as it remains on the field.  This effect is passed on by baton pass.
+lucky-chant,normal,-1,status,-1,30,0,-1,No,users-field,For five turns  opposing Pokémon cannot score critical hits.
+me-first,normal,-1,status,-1,20,0,-1,No,selected-pokemon-me-first,If the target has selected a damaging move this turn  the user will copy that move and use it against the target  with a 50% increase in power.  If the target moves before the user  this move will fail.  This move cannot be copied by mirror move  nor selected by assist  metronome  or sleep talk.
+copycat,normal,-1,status,-1,20,0,-1,No,user,Uses the last move that was used successfully by any Pokémon  including the user.  This move cannot copy itself  nor roar nor whirlwind.  This move cannot be copied by mirror move  nor selected by assist  metronome  or sleep talk.
+power-swap,psychic,-1,status,-1,10,0,-1,No,selected-pokemon,User swaps its Attack and Special Attack stat modifiers modifiers with the target.
+guard-swap,psychic,-1,status,-1,10,0,-1,No,selected-pokemon,User swaps its Defense and Special Defense modifiers with the target.
+punishment,dark,100,physical,-1,5,0,-1,No,selected-pokemon,Inflicts regular damage.  Power starts at 60 and is increased by 20 for every stage any of the target's stats has been raised  capping at 200.  Accuracy and evasion modifiers do not increase this move's power.
+last-resort,normal,100,physical,-1,5,0,140,No,selected-pokemon,Inflicts regular damage.  This move can only be used if each of the user's other moves has been used at least once since the user entered the field.  If this is the user's only move  this move will fail.
+worry-seed,grass,100,status,-1,10,0,-1,No,selected-pokemon,Changes the target's ability to insomnia.  If the target's ability is truant or multitype  this move will fail.
+sucker-punch,dark,100,physical,-1,5,1,70,No,selected-pokemon,Inflicts regular damage.  If the target has not selected a damaging move this turn  or if the target has already acted this turn  this move will fail.  This move is not affected by iron fist.
+toxic-spikes,poison,-1,status,-1,20,0,-1,No,opponents-field,Scatters poisoned spikes around the opposing field  which poison opposing Pokémon that enter the field.  A second layer of these spikes may be laid down  in which case Pokémon will be badly poisoned instead.  Pokémon immune to either ground moves or being poisoned are immune to this effect.  Pokémon otherwise immune to ground moves are affected during gravity.  If a poison Pokémon not immune to ground moves enters a field covered with poisoned spikes  the spikes are removed.  rapid spin will remove this effect from its user's side of the field.  defog will remove this effect from its target's side of the field.  This move does not trigger synchronize  unless the Pokémon with synchronize was forced to enter the field by another effect such as roar.  Pokémon entering the field due to baton pass are not affected by this effect.
+heart-swap,psychic,-1,status,-1,10,0,-1,No,selected-pokemon,User swaps its stat modifiers with the target.
+aqua-ring,water,-1,status,-1,20,0,-1,No,user,Restores 1/16 of the user's max HP at the end of each turn.  If the user leaves the field  this effect ends.  This effect is passed on by baton pass.
+magnet-rise,electric,-1,status,-1,10,0,-1,No,user,For five turns  the user is immune to ground moves.  If the user is under the effect of ingrain or has levitate  this move will fail.  This effect is temporarily disabled by and cannot be used during gravity.  This effect is passed on by baton pass.
+flare-blitz,fire,100,physical,10,15,0,120,No,selected-pokemon,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.  Has a 10% chance to burn the target.  Frozen Pokémon may use this move  in which case they will thaw.
+force-palm,fighting,100,physical,30,10,0,60,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+aura-sphere,fighting,-1,special,-1,20,0,80,No,selected-pokemon,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+rock-polish,rock,-1,status,-1,20,0,-1,No,user,Raises the user's Speed by two stages.
+poison-jab,poison,100,physical,30,20,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to poison the target.
+dark-pulse,dark,100,special,20,15,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+night-slash,dark,100,physical,-1,15,0,70,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+aqua-tail,water,90,physical,-1,10,0,90,No,selected-pokemon,Inflicts regular damage.
+seed-bomb,grass,100,physical,-1,15,0,80,No,selected-pokemon,Inflicts regular damage.
+air-slash,flying,95,special,30,15,0,75,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+x-scissor,bug,100,physical,-1,15,0,80,No,selected-pokemon,Inflicts regular damage.
+bug-buzz,bug,100,special,10,10,0,90,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+dragon-pulse,dragon,100,special,-1,10,0,85,No,selected-pokemon,Inflicts regular damage.
+dragon-rush,dragon,75,physical,20,10,0,100,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+power-gem,rock,100,special,-1,20,0,80,No,selected-pokemon,Inflicts regular damage.
+drain-punch,fighting,100,physical,-1,10,0,75,No,selected-pokemon,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+vacuum-wave,fighting,100,special,-1,30,1,40,No,selected-pokemon,Inflicts regular damage.
+focus-blast,fighting,70,special,10,5,0,120,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+energy-ball,grass,100,special,10,10,0,90,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+brave-bird,flying,100,physical,-1,15,0,120,No,selected-pokemon,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.
+earth-power,ground,100,special,10,10,0,90,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+switcheroo,dark,100,status,-1,10,0,-1,No,selected-pokemon,User and target permanently swap held items.  Works even if one of the Pokémon isn't holding anything.  If either Pokémon is holding mail  this move will fail.  If either Pokémon has multitype or sticky hold  this move will fail.  If this move results in a Pokémon obtaining choice band  choice scarf  or choice specs  and that Pokémon was the latter of the pair to move this turn  then the move it used this turn becomes its chosen forced move.  This applies even if both Pokémon had a choice item before this move was used.  If the first of the two Pokémon gains a choice item  it may select whatever choice move it wishes next turn.  Neither the user nor the target can recover its item with recycle.  This move cannot be selected by assist or metronome.
+giga-impact,normal,90,physical,-1,5,0,150,No,selected-pokemon,Inflicts regular damage.  User loses its next turn to "recharge"  and cannot attack or switch out during that turn.
+nasty-plot,dark,-1,status,-1,20,0,-1,No,user,Raises the user's Special Attack by two stages.
+bullet-punch,steel,100,physical,-1,30,1,40,No,selected-pokemon,Inflicts regular damage.
+avalanche,ice,100,physical,-1,10,-4,60,No,selected-pokemon,Inflicts regular damage.  If the target damaged the user this turn and was the last to do so  this move has double power.  pain split does not count as damaging the user.
+ice-shard,ice,100,physical,-1,30,1,40,No,selected-pokemon,Inflicts regular damage.
+shadow-claw,ghost,100,physical,-1,15,0,70,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+thunder-fang,electric,95,physical,10,15,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to paralyze the target and a separate 10% chance to make the target flinch.
+ice-fang,ice,95,physical,10,15,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to freeze the target and a separate 10% chance to make the target flinch.
+fire-fang,fire,95,physical,10,15,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to burn the target and a separate 10% chance to make the target flinch.
+shadow-sneak,ghost,100,physical,-1,30,1,40,No,selected-pokemon,Inflicts regular damage.
+mud-bomb,ground,85,special,30,10,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.
+psycho-cut,psychic,100,physical,-1,20,0,70,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+zen-headbutt,psychic,90,physical,20,15,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to make the target flinch.
+mirror-shot,steel,85,special,30,10,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.
+flash-cannon,steel,100,special,10,10,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.
+rock-climb,normal,85,physical,20,20,0,90,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to confuse the target.
+defog,flying,-1,status,-1,15,0,-1,No,selected-pokemon,Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist  light screen  reflect  safeguard  spikes  stealth rock  and toxic spikes from the target's side of the field.  If the target is protected by mist  it will prevent the evasion change  then be removed by this move.
+trick-room,psychic,-1,status,-1,5,-7,-1,No,entire-field,For five turns (including this one)  slower Pokémon will act before faster Pokémon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.  Pokémon holding full incense  lagging tail  or quick claw and Pokémon with stall ignore this effect.
+draco-meteor,dragon,90,special,100,5,0,130,No,selected-pokemon,Inflicts regular damage  then lowers the user's Special Attack by two stages.
+discharge,electric,100,special,30,15,0,80,No,all-other-pokemon,Inflicts regular damage.  Has a 30% chance to paralyze the target.
+lava-plume,fire,100,special,30,15,0,80,No,all-other-pokemon,Inflicts regular damage.  Has a 30% chance to burn the target.
+leaf-storm,grass,90,special,100,5,0,130,No,selected-pokemon,Inflicts regular damage  then lowers the user's Special Attack by two stages.
+power-whip,grass,85,physical,-1,10,0,120,No,selected-pokemon,Inflicts regular damage.
+rock-wrecker,rock,90,physical,-1,5,0,150,No,selected-pokemon,Inflicts regular damage.  User loses its next turn to "recharge"  and cannot attack or switch out during that turn.
+cross-poison,poison,100,physical,10,20,0,70,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to poison the target.
+gunk-shot,poison,80,physical,30,5,0,120,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to poison the target.
+iron-head,steel,100,physical,30,15,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+magnet-bomb,steel,-1,physical,-1,20,0,60,No,selected-pokemon,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+stone-edge,rock,80,physical,-1,5,0,100,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+captivate,normal,100,status,-1,20,0,-1,No,all-opponents,Lowers the target's Special Attack by two stages.  If the user and target are the same gender  or either is genderless  this move will fail.
+stealth-rock,rock,-1,status,-1,20,0,-1,No,opponents-field,Spreads sharp rocks around the opposing field  damaging any Pokémon that enters the field for 1/8 its max HP.  This damage is affected by the entering Pokémon's susceptibility to rock moves.  rapid spin removes this effect from its user's side of the field.
+grass-knot,grass,100,special,-1,20,0,-1,No,selected-pokemon,Inflicts regular damage.  Power increases with the target's weight in kilograms  to a maximum of 120.  Target's weight | Power --------------- | ----: Up to 10kg      |    20 Up to 25kg      |    40 Up to 50kg      |    60 Up to 100kg     |    80 Up to 200kg     |   100 Above 200kg     |   120 
+chatter,flying,100,special,100,20,0,65,No,selected-pokemon,Inflicts regular damage.  Has either a 1%  11%  or 31% chance to confuse the target  based on the volume of the recording made for this move; louder recordings increase the chance of confusion.  If the user is not a chatot  this move will not cause confusion.  This move cannot be copied by mimic  mirror move  or sketch  nor selected by assist  metronome  or sleep talk.
+judgment,normal,100,special,-1,10,0,100,No,selected-pokemon,Inflicts regular damage.  If the user is holding a plate or a drive  this move's type is the type corresponding to that item.  Note: This effect is technically shared by both techno blast and judgment; however  Techno Blast is only affected by drives  and Judgment is only affected by plates.
+bug-bite,bug,100,physical,-1,20,0,60,No,selected-pokemon,Inflicts regular damage.  If the target is holding a berry  this move has double power  and the user takes the berry and uses it immediately.  If the target is holding a jaboca berry or rowap berry  the berry is still removed  but has no effect.  If this move is super effective and the target is holding a berry that can reduce this move's damage  it will do so  and will not be stolen.
+charge-beam,electric,90,special,70,10,0,50,No,selected-pokemon,Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.
+wood-hammer,grass,100,physical,-1,15,0,120,No,selected-pokemon,Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.
+aqua-jet,water,100,physical,-1,20,1,40,No,selected-pokemon,Inflicts regular damage.
+attack-order,bug,100,physical,-1,15,0,90,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+defend-order,bug,-1,status,-1,10,0,-1,No,user,Raises the user's Defense and Special Defense by one stage.
+heal-order,bug,-1,status,-1,10,0,-1,No,user,Heals the user for half its max HP.
+head-smash,rock,80,physical,-1,5,0,150,No,selected-pokemon,Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil.
+double-hit,normal,90,physical,-1,10,0,35,No,selected-pokemon,Inflicts regular damage.  Hits twice in one turn.
+roar-of-time,dragon,90,special,-1,5,0,150,No,selected-pokemon,Inflicts regular damage.  User loses its next turn to "recharge"  and cannot attack or switch out during that turn.
+spacial-rend,dragon,95,special,-1,5,0,100,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+lunar-dance,psychic,-1,status,-1,10,0,-1,No,user,User faints.  Its replacement's HP and PP are fully restored  and any major status effect is removed.
+crush-grip,normal,100,physical,-1,5,0,-1,No,selected-pokemon,Inflicts regular damage.  Power directly relates to the target's relative remaining HP  given by `1 + 120 * current HP / max HP`  to a maximum of 121.
+magma-storm,fire,75,special,100,5,0,100,No,selected-pokemon,Inflicts regular damage.  For the next 2–5 turns  the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field  this effect ends.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.  rapid spin cancels this effect.
+dark-void,dark,50,status,-1,10,0,-1,No,all-opponents,Puts the target to sleep.
+seed-flare,grass,85,special,40,5,0,120,No,selected-pokemon,Inflicts regular damage.  Has a 40% chance to lower the target's Special Defense by two stages.
+ominous-wind,ghost,100,special,10,5,0,60,No,selected-pokemon,Inflicts regular damage. Has a 10% chance to raise all of the user's stats one stage.
+shadow-force,ghost,100,physical,-1,5,0,120,No,selected-pokemon,Inflicts regular damage.  User vanishes for one turn  becoming immune to attack  and hits on the second turn.  This move ignores the effects of detect and protect.  This move cannot be selected by sleep talk.
+hone-claws,dark,-1,status,-1,15,0,-1,No,user,Raises the user's Attack and accuracy by one stage.
+wide-guard,rock,-1,status,-1,10,3,-1,No,users-field,Moves with multiple targets will not hit friendly Pokémon for the remainder of this turn.  If the user is last to act this turn  this move will fail.  This move cannot be selected by assist or metronome.
+guard-split,psychic,-1,status,-1,10,0,-1,No,selected-pokemon,Averages the user's unmodified Defense with the target's unmodified Defense; the value becomes the unmodified Defense for both Pokémon. Unmodified Special Defense is averaged the same way.
+power-split,psychic,-1,status,-1,10,0,-1,No,selected-pokemon,Averages the user's unmodified Attack with the target's unmodified Attack; the value becomes the unmodified Attack for both Pokémon. Unmodified Special Attack is averaged the same way.  This effect applies before any other persistent changes to unmodified Attack or Special Attack  such as flower gift during sunny day.
+wonder-room,psychic,-1,status,-1,10,0,-1,No,entire-field,For five turns (including this one)  every Pokémon's Defense and Special Defense are swapped.
+psyshock,psychic,100,special,-1,10,0,80,No,selected-pokemon,Inflicts regular damage.  Damage calculation always uses the target's Defense  regardless of this move's damage class.
+venoshock,poison,100,special,-1,10,0,65,No,selected-pokemon,Inflicts regular damage.  If the target is poisoned  this move has double power.
+autotomize,steel,-1,status,-1,15,0,-1,No,user,Raises the user's Speed by two stages.  Halves the user's weight; this effect does not stack.
+rage-powder,bug,-1,status,-1,20,2,-1,No,user,Until the end of this turn  any moves that opposing Pokémon target solely at the user's ally will instead target the user.  If both Pokémon on the same side of the field use this move on the same turn  the Pokémon that uses it last will become the target.  This effect takes priority over lightning rod and storm drain.  If the user's ally switches out  opposing Pokémon may still hit it with pursuit.  This move cannot be selected by assist or metronome.
+telekinesis,psychic,-1,status,-1,15,0,-1,No,selected-pokemon,For three turns (including this one)  moves used against the target have 100% accuracy  but the target is immune to ground damage.  Accuracy of one-hit KO moves is exempt from this effect.  This effect is removed by gravity.  If Gravity is already in effect  this move will fail.
+magic-room,psychic,-1,status,-1,10,0,-1,No,entire-field,For five turns (including this one)  passive effects of held items are ignored  and Pokémon will not use their held items.
+smack-down,rock,100,physical,100,15,0,50,No,selected-pokemon,Inflicts regular damage.  Removes the target's immunity to ground-type damage.  This effect removes any existing Ground immunity due to levitate  magnet rise  or telekinesis  and causes the target's flying type to be ignored when it takes Ground damage.  If the target isn't immune to Ground damage  this move will fail.  This move can hit Pokémon under the effect of bounce  fly  or sky drop  and ends the effect of Bounce or Fly.
+storm-throw,fighting,100,physical,-1,10,0,60,No,selected-pokemon,Inflicts regular damage.  Always scores a critical hit.
+flame-burst,fire,100,special,-1,15,0,70,No,selected-pokemon,Inflicts regular damage.  If this move successfully hits the target  any Pokémon adjacent to the target are damaged for 1/16 their max HP.
+sludge-wave,poison,100,special,10,10,0,95,No,all-other-pokemon,Inflicts regular damage.  Has a 10% chance to poison the target.
+quiver-dance,bug,-1,status,-1,20,0,-1,No,user,Raises the user's Special Attack  Special Defense  and Speed by one stage each.
+heavy-slam,steel,100,physical,-1,10,0,-1,No,selected-pokemon,Inflicts regular damage.  The greater the user's weight compared to the target's  the higher power this move has  to a maximum of 120.  User's weight                    | Power -------------------------------- | ----: Up to 2× the target's weight     |    40 Up to 3× the target's weight     |    60 Up to 4× the target's weight     |    80 Up to 5× the target's weight     |   100 More than 5× the target's weight |   120 
+synchronoise,psychic,100,special,-1,10,0,120,No,all-other-pokemon,Inflicts regular damage.  Only Pokémon that share a type with the user will take damage from this move.
+electro-ball,electric,100,special,-1,10,0,-1,No,selected-pokemon,Inflicts regular damage.  The greater the user's Speed compared to the target's  the higher power this move has  to a maximum of 150.  User's Speed                     | Power -------------------------------- | ----: Up to 2× the target's Speed      |    60 Up to 3× the target's Speed      |    80 Up to 4× the target's Speed      |   120 More than 4× the target's Speed  |   150 
+soak,water,100,status,-1,20,0,-1,No,selected-pokemon,Changes the target to pure water-type until it leaves the field.  If the target has multitype  this move will fail.
+flame-charge,fire,100,physical,100,20,0,50,No,selected-pokemon,Inflicts regular damage.  Raises the user's Speed by one stage.
+coil,poison,-1,status,-1,20,0,-1,No,user,Raises the user's Attack  Defense  and accuracy by one stage each.
+low-sweep,fighting,100,physical,100,20,0,65,No,selected-pokemon,Lowers the target's Speed by one stage.
+acid-spray,poison,100,special,100,20,0,40,No,selected-pokemon,Inflicts regular damage.  Lowers the target's Special Defense by two stages.
+foul-play,dark,100,physical,-1,15,0,95,No,selected-pokemon,Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's.
+simple-beam,normal,100,status,-1,15,0,-1,No,selected-pokemon,Changes the target's ability to simple.
+entrainment,normal,100,status,-1,15,0,-1,No,selected-pokemon,Changes the target's ability to match the user's.  This effect ends when the target leaves battle.
+after-you,normal,-1,status,-1,15,0,-1,No,selected-pokemon,The target will act next this turn  regardless of Speed or move priority. If the target has already acted this turn  this move will fail.
+round,normal,100,special,-1,15,0,60,No,selected-pokemon,Inflicts regular damage.  If round has already been used this turn  this move's power is doubled.  After this move is used  any other Pokémon using it this turn will immediately do so (in the order they would otherwise act)  regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.
+echoed-voice,normal,100,special,-1,15,0,40,No,selected-pokemon,Inflicts regular damage.  If any friendly Pokémon used this move earlier this turn or on the previous turn  that use's power is added to this move's power  to a maximum of 200.
+chip-away,normal,100,physical,-1,20,0,70,No,selected-pokemon,Inflicts regular damage.  Damage calculation ignores the target's stat modifiers  including evasion.
+clear-smog,poison,-1,special,-1,15,0,50,No,selected-pokemon,Inflicts regular damage.  All of the target's stat modifiers are reset to zero.
+stored-power,psychic,100,special,-1,10,0,20,No,selected-pokemon,Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user's stats have been raised.  Accuracy  evasion  and lowered stats do not affect this move's power.  For a Pokémon with all five stats modified to +6  this move's power is 31×.
+quick-guard,fighting,-1,status,-1,15,3,-1,No,users-field,Moves with priority greater than 0 will not hit friendly Pokémon for the remainder of this turn.  If the user is last to act this turn  this move will fail.  This move cannot be selected by assist or metronome.
+ally-switch,psychic,-1,status,-1,15,2,-1,No,user,User switches position on the field with the friendly Pokémon opposite it.  If the user is in the middle position in a triple battle  or there are no other friendly Pokémon  this move will fail.
+scald,water,100,special,30,15,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to burn the target.
+shell-smash,normal,-1,status,-1,15,0,-1,No,user,Raises the user's Attack  Special Attack  and Speed by two stages each.  Lowers the user's Defense and Special Defense by one stage each.
+heal-pulse,psychic,-1,status,-1,10,0,-1,No,selected-pokemon,Heals the target for half its max HP.
+hex,ghost,100,special,-1,10,0,65,No,selected-pokemon,Inflicts regular damage.  If the target has a major status ailment  this move has double power.
+sky-drop,flying,100,physical,-1,10,0,60,No,selected-pokemon,Inflicts regular damage.  User carries the target high into the air for one turn  during which no moves will hit either Pokémon and neither can act.  On the following turn  the user drops the target  inflicting damage and ending the effect.  If the target is flying-type  this move will function as normal but inflict no damage.  gust  hurricane  sky uppercut  smack down  thunder  twister  and whirlwind can hit both the user and the target during this effect.  gust and twister will additionally have double power.  The damage from hail and sandstorm still applies during this effect.  Either Pokémon may be hit during this effect if also under the effect of lock on  mind reader  or no guard.  This move cannot be used while gravity is in effect.  This move cannot be selected by sleep talk.  *Bug*: If gravity is used during a double or triple battle while this move is in effect  this move is not correctly canceled on the target  and it remains high in the air indefinitely.  As this move prevents the target from acting  the only way to subsequently remove it from the field is to faint it.
+shift-gear,steel,-1,status,-1,10,0,-1,No,user,Raises the user's Attack by one stage and its Speed by two stages.
+circle-throw,fighting,90,physical,-1,10,-6,60,No,selected-pokemon,Inflicts regular damage  then switches the target out for another of its trainer's Pokémon  selected at random.  If the target is under the effect of ingrain or suction cups  or it has a substitute  or its Trainer has no more usable Pokémon  it will not be switched out.  If the target is a wild Pokémon  the battle ends instead.
+incinerate,fire,100,special,-1,15,0,60,No,all-opponents,Inflicts regular damage.  If the target is holding a berry  it's destroyed and cannot be used in response to this move.
+quash,dark,100,status,-1,15,0,-1,No,selected-pokemon,Forces the target to act last this turn  regardless of Speed or move priority.  If the target has already acted this turn  this move will fail.
+acrobatics,flying,100,physical,-1,15,0,55,No,selected-pokemon,Inflicts regular damage.  If the user has no held item  this move has double power.
+reflect-type,normal,-1,status,-1,15,0,-1,No,selected-pokemon,User's type changes to match the target's.
+retaliate,normal,100,physical,-1,5,0,70,No,selected-pokemon,Inflicts regular damage.  If a friendly Pokémon fainted on the previous turn  this move has double power.
+final-gambit,fighting,100,special,-1,5,0,-1,No,selected-pokemon,Inflicts damage equal to the user's remaining HP.  User faints.
+bestow,normal,-1,status,-1,15,0,-1,No,selected-pokemon,Transfers the user's held item to the target.  If the user has no held item  or the target already has a held item  this move will fail.
+inferno,fire,50,special,100,5,0,100,No,selected-pokemon,Inflicts regular damage.  Has a 100% chance to burn the target.
+water-pledge,water,100,special,-1,10,0,80,No,selected-pokemon,Inflicts regular damage.  If a friendly Pokémon used grass pledge earlier this turn  all opposing Pokémon have halved Speed for four turns (including this one).
+fire-pledge,fire,100,special,-1,10,0,80,No,selected-pokemon,Inflicts regular damage.  If a friendly Pokémon used water pledge earlier this turn  moves used by any friendly Pokémon have doubled effect chance for four turns (including this one).
+grass-pledge,grass,100,special,-1,10,0,80,No,selected-pokemon,Inflicts regular damage.  If a friendly Pokémon used fire pledge earlier this turn  all opposing Pokémon will take 1/8 their max HP in damage at the end of every turn for four turns (including this one).
+volt-switch,electric,100,special,-1,20,0,70,No,selected-pokemon,Inflicts regular damage  then the user immediately switches out  and the trainer selects a replacement Pokémon from the party.  If the target faints from this attack  the user's trainer selects the new Pokémon to send out first.  If the user is the last Pokémon in its party that can battle  it will not switch out.  The user may be hit by pursuit when it switches out  if it has been targeted and pursuit has not yet been used.  This move may be used even if the user is under the effect of ingrain.  ingrain's effect will end.
+struggle-bug,bug,100,special,100,20,0,50,No,all-opponents,Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.
+bulldoze,ground,100,physical,100,20,0,60,No,all-other-pokemon,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+frost-breath,ice,90,special,100,10,0,60,No,selected-pokemon,Inflicts regular damage.  Always scores a critical hit.
+dragon-tail,dragon,90,physical,-1,10,-6,60,No,selected-pokemon,Inflicts regular damage  then switches the target out for another of its trainer's Pokémon  selected at random.  If the target is under the effect of ingrain or suction cups  or it has a substitute  or its Trainer has no more usable Pokémon  it will not be switched out.  If the target is a wild Pokémon  the battle ends instead.
+work-up,normal,-1,status,-1,30,0,-1,No,user,Raises the user's Attack and Special Attack by one stage each.
+electroweb,electric,95,special,100,15,0,55,No,all-opponents,Lowers the target's Speed by one stage.
+wild-charge,electric,100,physical,-1,15,0,90,No,selected-pokemon,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+drill-run,ground,95,physical,-1,10,0,80,No,selected-pokemon,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.
+dual-chop,dragon,90,physical,-1,15,0,40,No,selected-pokemon,Inflicts regular damage.  Hits twice in one turn.
+heart-stamp,psychic,100,physical,30,25,0,60,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+horn-leech,grass,100,physical,-1,10,0,75,No,selected-pokemon,Inflicts regular damage.  Drains half the damage inflicted to heal the user.
+sacred-sword,fighting,100,physical,-1,15,0,90,No,selected-pokemon,Inflicts regular damage.  Damage calculation ignores the target's stat modifiers  including evasion.
+razor-shell,water,95,physical,50,10,0,75,No,selected-pokemon,Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.
+heat-crash,fire,100,physical,-1,10,0,-1,No,selected-pokemon,Inflicts regular damage.  The greater the user's weight compared to the target's  the higher power this move has  to a maximum of 120.  User's weight                    | Power -------------------------------- | ----: Up to 2× the target's weight     |    40 Up to 3× the target's weight     |    60 Up to 4× the target's weight     |    80 Up to 5× the target's weight     |   100 More than 5× the target's weight |   120 
+leaf-tornado,grass,90,special,50,10,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 50% chance to lower the target's accuracy by one stage.
+steamroller,bug,100,physical,30,20,0,65,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.  Power is doubled against Pokémon that have used minimize since entering the field.
+cotton-guard,grass,-1,status,-1,10,0,-1,No,user,Raises the user's Defense by three stages.
+night-daze,dark,95,special,40,10,0,85,No,selected-pokemon,Inflicts regular damage.  Has a 40% chance to lower the target's accuracy by one stage.
+psystrike,psychic,100,special,-1,10,0,100,No,selected-pokemon,Inflicts regular damage.  Damage calculation always uses the target's Defense  regardless of this move's damage class.
+tail-slap,normal,85,physical,-1,10,0,25,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times in one turn.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+hurricane,flying,70,special,30,10,0,110,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to confuse the target.  This move can hit Pokémon under the effect of bounce  fly  or sky drop.  During rain dance  this move has 100% accuracy.  During sunny day  this move has 50% accuracy.
+head-charge,normal,100,physical,-1,15,0,120,No,selected-pokemon,Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.
+gear-grind,steel,85,physical,-1,15,0,50,No,selected-pokemon,Inflicts regular damage.  Hits twice in one turn.
+searing-shot,fire,100,special,30,5,0,100,No,all-other-pokemon,Inflicts regular damage.  Has a 30% chance to burn the target.
+techno-blast,normal,100,special,-1,5,0,120,No,selected-pokemon,Inflicts regular damage.  If the user is holding a plate or a drive  this move's type is the type corresponding to that item.  Note: This effect is technically shared by both techno blast and judgment; however  Techno Blast is only affected by drives  and Judgment is only affected by plates.
+relic-song,normal,100,special,10,10,0,75,No,all-opponents,Inflicts regular damage.  Has a 10% chance to put the target to sleep. If the user is a meloetta  it will toggle between Aria and Pirouette Forme.
+secret-sword,fighting,100,special,-1,10,0,85,No,selected-pokemon,Inflicts regular damage.  Damage calculation always uses the target's Defense  regardless of this move's damage class.
+glaciate,ice,95,special,100,10,0,65,No,all-opponents,Inflicts regular damage.  Lowers the target's Speed by one stage.
+bolt-strike,electric,85,physical,20,5,0,130,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to paralyze the target.
+blue-flare,fire,85,special,20,5,0,130,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to burn the target.
+fiery-dance,fire,100,special,50,10,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 50% chance to raise the user's Special Attack by one stage.
+freeze-shock,ice,90,physical,30,5,0,140,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to paralyze the target.  User charges for one turn before attacking.
+ice-burn,ice,90,special,30,5,0,140,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to burn the target.  User charges for one turn before attacking.
+snarl,dark,95,special,100,15,0,55,No,all-opponents,Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.
+icicle-crash,ice,90,physical,30,10,0,85,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+v-create,fire,95,physical,100,5,0,180,No,selected-pokemon,Inflicts regular damage.  Lowers the user's Defense  Special Defense  and Speed by one stage each.
+fusion-flare,fire,100,special,-1,5,0,100,No,selected-pokemon,Inflicts regular damage.  If a friendly Pokémon used fusion bolt earlier this turn  this move has double power.
+fusion-bolt,electric,100,physical,-1,5,0,100,No,selected-pokemon,Inflicts regular damage.  If a friendly Pokémon used fusion flare earlier this turn  this move has double power.
+flying-press,fighting,95,physical,-1,10,0,100,No,selected-pokemon,Inflicts regular damage.  For the purposes of type effectiveness  this move is both fighting- and flying-type: its final effectiveness is determined by multiplying the effectiveness of each type against each of the target's types.  For all other purposes  this move is pure Fighting-type.  If this move's type is changed  its Fighting typing is overwritten  and its secondary type remains Flying.  If the target has used minimize since entering battle  this move has double power and will never miss.
+mat-block,fighting,-1,status,-1,10,0,-1,No,users-field,Protects all friendly Pokémon from damaging moves.  Only works on the first turn after the user is sent out.
+belch,poison,90,special,-1,10,0,120,No,selected-pokemon,Inflicts regular damage.  Can only be used if the user has eaten a berry since the beginning of the battle.  After the user eats a berry  it may use this move any number of times until the end of the battle  even if it switches out.  Eating a held berry  eating a berry via bug bite or pluck  or being the target of a Flung berry will enable this move.  Feeding a Pokémon a berry from the bag or using natural gift will not.  If the trainer chooses this move when it cannot be used  the choice is rejected outright and the trainer must choose another move.
+rototiller,ground,-1,status,100,10,0,-1,No,all-pokemon,Raises the Attack and Special Attack of all grass Pokémon in battle.
+sticky-web,bug,-1,status,-1,20,0,-1,No,opponents-field,Shoots a web over the opponents' side of the field  which lowers the Speed of any opposing Pokémon that enters the field by one stage.  Pokémon in the air  such as flying-types and those with levitate  are unaffected.  rapid spin removes Sticky Web from the user's side of the field; defog removes it from both sides.
+fell-stinger,bug,100,physical,-1,25,0,50,No,selected-pokemon,Inflicts regular damage.  Raises the user's Attack by two stages if it KOs the target.
+phantom-force,ghost,100,physical,-1,10,0,90,No,selected-pokemon,Inflicts regular damage.  User vanishes for one turn  becoming immune to attack  and hits on the second turn.  This move ignores the effects of detect and protect.  This move cannot be selected by sleep talk.
+trick-or-treat,ghost,100,status,-1,20,0,-1,No,selected-pokemon,Adds ghost to the target's types.
+noble-roar,normal,100,status,100,30,0,-1,No,selected-pokemon,Lowers the target's Attack and Special Attack by one stage.
+ion-deluge,electric,-1,status,-1,25,1,-1,No,entire-field,Changes all Pokémon's normal moves to electric moves for the rest of the turn.
+parabolic-charge,electric,100,special,-1,20,0,65,No,all-other-pokemon,Heals the user for half the total damage dealt to all targets.
+forests-curse,grass,100,status,-1,20,0,-1,No,selected-pokemon,Adds grass to the target's types.
+petal-blizzard,grass,100,physical,-1,15,0,90,No,all-other-pokemon,Inflicts regular damage.
+freeze-dry,ice,100,special,10,20,0,70,No,selected-pokemon,Inflicts regular damage.  This move is super-effective against the water type.  The target's other type will affect damage as usual.  If this move's type is changed  it remains super-effective against Water regardless of its type.
+disarming-voice,fairy,-1,special,-1,15,0,40,No,all-opponents,Inflicts regular damage.  Ignores accuracy and evasion.
+parting-shot,dark,100,status,100,20,0,-1,No,selected-pokemon,Lowers all targets' Attack and Special Attack by one stage.  Makes the user switch out.
+topsy-turvy,dark,-1,status,-1,20,0,-1,No,selected-pokemon,Inverts the target's stat modifiers.
+draining-kiss,fairy,100,special,-1,10,0,50,No,selected-pokemon,Deals regular damage.  Drains 75% of the damage inflicted to heal the user.
+crafty-shield,fairy,-1,status,-1,10,3,-1,No,users-field,Protects all friendly Pokémon from non-damaging moves for the rest of the turn.  Unlike other blocking moves  this move may be used consecutively without its chance of success falling.
+flower-shield,fairy,-1,status,100,10,0,-1,No,all-pokemon,Raises the Defense of all grass Pokémon in battle.
+grassy-terrain,grass,-1,status,-1,10,0,-1,No,entire-field,For five turns  heals all Pokémon on the ground for 1/16 their max HP each turn and strengthens their grass moves to 1.5× their power.  Changes nature power to energy ball.
+misty-terrain,fairy,-1,status,-1,10,0,-1,No,entire-field,For five turns  protects all Pokémon on the ground from major status ailments and confusion and weakens dragon moves used against them to 0.5× their power.  Changes nature power to moonblast.
+electrify,electric,-1,status,-1,20,0,-1,No,selected-pokemon,Changes the target's move's type to electric if it hasn't moved yet this turn.
+play-rough,fairy,90,physical,10,10,0,90,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage.
+fairy-wind,fairy,100,special,-1,30,0,40,No,selected-pokemon,Inflicts regular damage.
+moonblast,fairy,100,special,30,15,0,95,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to lower the target's Special Attack by one stage.
+boomburst,normal,100,special,-1,10,0,140,No,all-other-pokemon,Inflicts regular damage.
+fairy-lock,fairy,-1,status,-1,10,0,-1,No,entire-field,Prevents all Pokémon from fleeing or switching out during the next turn.
+kings-shield,steel,-1,status,-1,10,4,-1,No,user,Blocks damaging attacks and lowers attacking Pokémon's Attack by two stages on contact.  Switches Aegislash to Shield Forme.
+play-nice,normal,-1,status,100,20,0,-1,No,selected-pokemon,Lowers the target's Attack by one stage.
+confide,normal,-1,status,100,20,0,-1,No,selected-pokemon,Lowers the target's Special Attack by one stage.
+diamond-storm,rock,95,physical,50,5,0,100,No,all-opponents,Inflicts regular damage.  Has a 50% chance to raise the user's Defense by two stages for each target hit.
+steam-eruption,water,95,special,30,5,0,110,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to burn the target.
+hyperspace-hole,psychic,-1,special,-1,5,0,80,No,selected-pokemon,Inflicts regular damage.  Bypasses and removes any protection effect on the target.
+water-shuriken,water,100,special,-1,20,1,15,No,selected-pokemon,Inflicts regular damage.  Hits 2–5 times.
+mystical-fire,fire,100,special,100,10,0,75,No,selected-pokemon,Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.
+spiky-shield,grass,-1,status,-1,10,4,-1,No,user,Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP.
+aromatic-mist,fairy,-1,status,-1,20,0,-1,No,ally,Raises a selected ally's Special Defense by one stage.
+eerie-impulse,electric,100,status,-1,15,0,-1,No,selected-pokemon,Lowers the target's Special Attack by two stages.
+venom-drench,poison,100,status,100,20,0,-1,No,all-opponents,Lowers the target's Attack  Special Attack  and Speed by one stage if it is poisoned.
+powder,bug,100,status,-1,20,1,-1,No,selected-pokemon,Explodes if the target uses a fire move this turn  damaging it for 1/4 its max HP and preventing the move.
+geomancy,fairy,-1,status,-1,10,0,-1,No,user,Takes one turn to charge  then raises the user's Special Attack  Special Defense  and Speed by two stages.
+magnetic-flux,electric,-1,status,-1,20,0,-1,No,user-and-allies,Raises the Defense and Special Defense of all friendly Pokémon with plus or minus by one stage.
+happy-hour,normal,-1,status,-1,30,0,-1,No,users-field,Doubles prize money.  Stacks with a held item.  Only works once per battle.
+electric-terrain,electric,-1,status,-1,10,0,-1,No,entire-field,For five turns  prevents all Pokémon on the ground from sleeping and strengthens their electric moves to 1.5× their power.  Changes nature power to thunderbolt.
+dazzling-gleam,fairy,100,special,-1,10,0,80,No,all-opponents,Inflicts regular damage.
+celebrate,normal,-1,status,-1,40,0,-1,No,user,Does nothing.
+hold-hands,normal,-1,status,-1,40,0,-1,No,ally,Does nothing.
+baby-doll-eyes,fairy,100,status,-1,30,1,-1,No,selected-pokemon,Lowers the target's Attack by one stage.
+nuzzle,electric,100,physical,100,20,0,20,No,selected-pokemon,Inflicts regular damage.  Has a 100% chance to paralyze the target.
+hold-back,normal,100,physical,-1,40,0,40,No,selected-pokemon,Inflicts regular damage.  Will not reduce the target's HP below 1.
+infestation,bug,100,special,100,20,0,20,No,selected-pokemon,Inflicts regular damage.  For the next 2–5 turns  the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field  this effect ends.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.  rapid spin cancels this effect.
+power-up-punch,fighting,100,physical,100,20,0,40,No,selected-pokemon,Inflicts regular damage.  Raises the user's Attack by one stage.
+oblivion-wing,flying,100,special,-1,10,0,80,No,selected-pokemon,Deals regular damage.  Drains 75% of the damage inflicted to heal the user.
+thousand-arrows,ground,100,physical,100,10,0,90,No,all-opponents,Inflicts regular damage.  Grounds the target until it leaves battle.  Ignores levitation effects and the immunity of flying-type Pokémon.
+thousand-waves,ground,100,physical,-1,10,0,90,No,all-opponents,Inflicts regular damage.  Traps the target.
+lands-wrath,ground,100,physical,-1,10,0,90,No,all-opponents,Inflicts regular damage.
+light-of-ruin,fairy,90,special,-1,5,0,140,No,selected-pokemon,Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil.
+origin-pulse,water,85,special,-1,10,0,110,No,all-opponents,Inflicts regular damage.
+precipice-blades,ground,85,physical,-1,10,0,120,No,all-opponents,Inflicts regular damage.
+dragon-ascent,flying,100,physical,100,5,0,120,No,selected-pokemon,Inflicts regular damage  then lowers the user's Defense and Special Defense by one stage each.
+hyperspace-fury,dark,-1,physical,100,5,0,100,No,selected-pokemon,Inflicts regular damage.  Bypasses and removes any protection effect on the target.
+breakneck-blitz--physical,normal,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+breakneck-blitz--special,normal,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+all-out-pummeling--physical,fighting,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+all-out-pummeling--special,fighting,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+supersonic-skystrike--physical,flying,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+supersonic-skystrike--special,flying,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+acid-downpour--physical,poison,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+acid-downpour--special,poison,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+tectonic-rage--physical,ground,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+tectonic-rage--special,ground,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+continental-crush--physical,rock,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+continental-crush--special,rock,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+savage-spin-out--physical,bug,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+savage-spin-out--special,bug,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+never-ending-nightmare--physical,ghost,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+never-ending-nightmare--special,ghost,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+corkscrew-crash--physical,steel,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+corkscrew-crash--special,steel,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+inferno-overdrive--physical,fire,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+inferno-overdrive--special,fire,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+hydro-vortex--physical,water,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+hydro-vortex--special,water,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+bloom-doom--physical,grass,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+bloom-doom--special,grass,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+gigavolt-havoc--physical,electric,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+gigavolt-havoc--special,electric,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+shattered-psyche--physical,psychic,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+shattered-psyche--special,psychic,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+subzero-slammer--physical,ice,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+subzero-slammer--special,ice,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+devastating-drake--physical,dragon,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+devastating-drake--special,dragon,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+black-hole-eclipse--physical,dark,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+black-hole-eclipse--special,dark,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+twinkle-tackle--physical,fairy,-1,physical,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+twinkle-tackle--special,fairy,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts regular damage.
+catastropika,electric,-1,physical,-1,1,0,210,No,selected-pokemon,Inflicts regular damage.
+shore-up,ground,-1,status,-1,5,0,-1,No,user,Heals the user for ½ its max HP.  During a sandstorm  the healing is increased to ⅔.
+first-impression,bug,100,physical,-1,10,2,90,No,selected-pokemon,Inflicts regular damage. Can only be used on the user's first turn after entering the field.
+baneful-bunker,poison,-1,status,-1,10,4,-1,No,user,Grants the user protection for the rest of the turn.  If a Pokémon attempts to use a move that makes contact with the user  that Pokémon will be poisoned.  This move's chance of success halves every time it's used consecutively with any other protection move.
+spirit-shackle,ghost,100,physical,-1,10,0,80,No,selected-pokemon,Inflicts regular damage.  Traps the target.
+darkest-lariat,dark,100,physical,-1,10,0,85,No,selected-pokemon,Inflicts regular damage.  Damage calculation ignores the target's stat modifiers  including evasion.
+sparkling-aria,water,100,special,-1,10,0,90,No,all-other-pokemon,Inflicts regular damage.  If the target has a burn and takes damage from this move  its burn is healed.
+ice-hammer,ice,90,physical,100,10,0,100,No,selected-pokemon,Inflicts regular damage  then lowers the user's Speed by one stage.
+floral-healing,fairy,-1,status,-1,10,0,-1,No,selected-pokemon,Heals the target for ½ its max HP.  If grassy terrain is in effect  heals for ⅔ instead.
+high-horsepower,ground,95,physical,-1,10,0,95,No,selected-pokemon,Inflicts regular damage.
+strength-sap,grass,100,status,100,10,0,-1,No,selected-pokemon,Lowers the target's Attack by one stage.  Heals the user by the target's current Attack  including modifiers  but not including this move's Attack-lowering effect.  If the target's Attack is already at -6  this move will fail.  In any other situation that would prevent a stat modification  the healing will still succeed.
+solar-blade,grass,100,physical,-1,10,0,125,No,selected-pokemon,Inflicts regular damage.  User charges for one turn before attacking.  During sunny day  the charge turn is skipped.  During hail  rain dance  or sandstorm  power is halved.  This move cannot be selected by sleep talk.
+leafage,grass,100,physical,-1,40,0,40,No,selected-pokemon,Inflicts regular damage.
+spotlight,normal,-1,status,-1,15,3,-1,No,selected-pokemon,For the duration of the turn  if the target is also a valid target for a move used by one of its opponents  that move will target it instead.
+toxic-thread,poison,100,status,100,20,0,-1,No,selected-pokemon,Poisons the target and lowers its Speed by one stage.
+laser-focus,normal,-1,status,-1,30,0,-1,No,user,The user's next move will result in a critical hit.
+gear-up,steel,-1,status,-1,20,0,-1,No,user-and-allies,Raises the Attack and Special Attack of all friendly Pokémon with plus or minus by one stage.
+throat-chop,dark,100,physical,100,15,0,80,No,selected-pokemon,Inflicts regular damage.  Silences the target for two turns  preventing it from using any sound-based moves.
+pollen-puff,bug,100,special,-1,15,0,90,No,selected-pokemon,If the target is an opponent  inflicts regular damage.  If the target is an ally  heals the target for 50% of its max HP.
+anchor-shot,steel,100,physical,-1,20,0,80,No,selected-pokemon,Inflicts regular damage.  Traps the target.
+psychic-terrain,psychic,-1,status,-1,10,0,-1,No,entire-field,Changes the terrain to Psychic Terrain for 5 turns.  Overrides electric terrain  grassy terrain  and misty terrain.  All Pokémon on the ground are immune to moves with priority greater than 0.  (Moves that target the field rather than individual Pokémon  such as spikes  are not affected.)  Additionally  when a Pokémon on the ground uses a psychic-type move  that move's power is increased to 1.5×.  If a Pokémon is holding a Terrain Extender when creating Psychic Terrain (by any means)  the effect lasts for 8 turns instead of 5.
+lunge,bug,100,physical,100,15,0,80,No,selected-pokemon,Inflicts regular damage.  Lowers the target's Attack by one stage.
+fire-lash,fire,100,physical,100,15,0,80,No,selected-pokemon,Inflicts regular damage.  Lowers the target's Defense by one stage.
+power-trip,dark,100,physical,-1,10,0,20,No,selected-pokemon,Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user's stats have been raised.  Accuracy  evasion  and lowered stats do not affect this move's power.  For a Pokémon with all five stats modified to +6  this move's power is 31×.
+burn-up,fire,100,special,-1,5,0,130,No,selected-pokemon,Inflicts regular damage.  Removes the user's fire type after damage calculation.  If the user is not fire-type  this move will fail.
+speed-swap,psychic,-1,status,-1,10,0,-1,No,selected-pokemon,Exchanges the original Speed stats of the user and target.
+smart-strike,steel,-1,physical,-1,10,0,70,No,selected-pokemon,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+purify,poison,-1,status,-1,20,0,-1,No,selected-pokemon,Cures the target of its major status ailment and heals the user for 50% of its max HP.  If the target has no major status ailment  this move will fail.
+revelation-dance,normal,100,special,-1,15,0,90,No,selected-pokemon,Inflicts regular damage.  This move's type matches the user's first type  if any; otherwise  it's typeless.
+core-enforcer,dragon,100,special,-1,10,0,100,No,all-opponents,Inflicts regular damage.  If the target has already moved this turn  its ability is nullified.
+trop-kick,grass,100,physical,100,15,0,70,No,selected-pokemon,Inflicts regular damage.  Lowers the target's Attack by one stage.
+instruct,psychic,-1,status,-1,15,0,-1,No,selected-pokemon,The target immediately uses its most recently-used move.  This is independent of the target's normal action for the turn (i.e.  it may end up moving twice)  but otherwise functions as usual  including deduction of PP.  This effect works for disabled moves and ignores torment.
+beak-blast,flying,100,physical,-1,15,-3,100,No,selected-pokemon,Begins charging at the start of the turn  then attacks as normal.  Any Pokémon that makes contact with the user while charging is burned.  The charging is not affected by accuracy  sleep  paralysis  or any other effect that would interfere with a move.
+clanging-scales,dragon,100,special,100,5,0,110,No,all-opponents,Inflicts regular damage.  Lowers the user's Defense by one stage.
+dragon-hammer,dragon,100,physical,-1,15,0,90,No,selected-pokemon,Inflicts regular damage.
+brutal-swing,dark,100,physical,-1,20,0,60,No,all-other-pokemon,Inflicts regular damage.
+aurora-veil,ice,-1,status,-1,20,0,-1,No,users-field,Places the Aurora Veil effect on the user's side of the field for the next 5 turns.  If the weather is not hail  or the weather is disabled by the effects of cloud nine or air lock  this move will fail.  Any regular damage dealt to an affected Pokémon is reduced by ½.  (If there are multiple Pokémon on the affected field  the reduction is ⅓.)
+sinister-arrow-raid,ghost,-1,physical,-1,1,0,180,No,selected-pokemon,Inflicts regular damage.
+malicious-moonsault,dark,-1,physical,-1,1,0,180,No,selected-pokemon,Inflicts regular damage.
+oceanic-operetta,water,-1,special,-1,1,0,195,No,selected-pokemon,Inflicts regular damage.
+guardian-of-alola,fairy,-1,special,-1,1,0,-1,No,selected-pokemon,Inflicts direct damage equal to ¾ of the target's remaining HP.
+soul-stealing-7-star-strike,ghost,-1,physical,-1,1,0,195,No,selected-pokemon,Inflicts regular damage.
+stoked-sparksurfer,electric,-1,special,100,1,0,175,No,selected-pokemon,Inflicts regular damage.  Has a 100% chance to paralyze the target.
+pulverizing-pancake,normal,-1,physical,-1,1,0,210,No,selected-pokemon,Inflicts regular damage.
+extreme-evoboost,normal,-1,status,100,1,0,-1,No,user,Raises the user's Attack  Defense  Special Attack  Special Defense  and Speed by two stages each.
+genesis-supernova,psychic,-1,special,-1,1,0,185,No,selected-pokemon,Inflicts regular damage  then (if successful) changes the terrain to psychic terrain.
+shell-trap,fire,100,special,-1,5,-3,150,No,all-opponents,Inflicts regular damage.  If the user was not yet hit by an opponent's physical move this turn  this move will fail.
+fleur-cannon,fairy,90,special,100,5,0,130,No,selected-pokemon,Inflicts regular damage  then lowers the user's Special Attack by two stages.
+psychic-fangs,psychic,100,physical,-1,10,0,85,No,selected-pokemon,Destroys any light screen or reflect on the target's side of the field  then inflicts regular damage.
+stomping-tantrum,ground,100,physical,-1,10,0,75,No,selected-pokemon,Inflicts regular damage.  Power is doubled if the user's last move failed for any reason (i.e.  produced the message "But it failed!") or was ineffective due to types.
+shadow-bone,ghost,100,physical,20,10,0,85,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to lower the target's Defense by one stage.
+accelerock,rock,100,physical,-1,20,1,40,No,selected-pokemon,Inflicts regular damage.
+liquidation,water,100,physical,20,10,0,85,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to lower the target's Defense by one stage.
+prismatic-laser,psychic,100,special,-1,10,0,160,No,selected-pokemon,Inflicts regular damage.  User loses its next turn to "recharge"  and cannot attack or switch out during that turn.
+spectral-thief,ghost,100,physical,-1,10,0,90,No,selected-pokemon,Steals the target's stat increases  then inflicts regular damage.  Will not steal stat increases that would put any of the user's stats at more than +6; any excess is left on the target.  Stolen increases are affected by abilities as normal.
+sunsteel-strike,steel,100,physical,-1,5,0,100,No,selected-pokemon,Inflicts regular damage.  Other Pokémon's abilities cannot activate in response to this move.  In particular  it hits through disguise
+moongeist-beam,ghost,100,special,-1,5,0,100,No,selected-pokemon,Inflicts regular damage.  Other Pokémon's abilities cannot activate in response to this move.  In particular  it hits through disguise
+tearful-look,normal,-1,status,100,20,0,-1,No,selected-pokemon,Lowers the target's Attack and Special Attack by one stage each.
+zing-zap,electric,100,physical,30,10,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 30% chance to make the target flinch.
+natures-madness,fairy,90,special,-1,10,0,-1,No,selected-pokemon,Inflicts typeless damage equal to half the target's remaining HP.
+multi-attack,normal,100,physical,-1,10,0,120,No,selected-pokemon,Inflicts regular damage.  If the user is holding a plate or a drive  this move's type is the type corresponding to that item.  Note: This effect is technically shared by both techno blast and judgment; however  Techno Blast is only affected by drives  and Judgment is only affected by plates.
+10-000-000-volt-thunderbolt,electric,-1,special,-1,1,0,195,No,selected-pokemon,Inflicts regular damage.
+mind-blown,fire,100,special,-1,5,0,150,No,all-other-pokemon,Inflicts damage  and the user takes damage equal to half of its max HP  rounded up. The user still takes damage if the move is blocked by Protect or Substitute  misses  or if the target has Flash Fire.
+plasma-fists,electric,100,physical,-1,15,0,100,No,selected-pokemon,After inflicting damage  all Normal-type moves become Electric-type for the remainder of the turn  including status moves. This effect is applied after move type-changing abilities  such as Pixilate and Normalize.
+photon-geyser,psychic,100,special,-1,5,0,100,No,selected-pokemon,Inflicts regular damage.
+light-that-burns-the-sky,psychic,-1,special,-1,1,0,200,No,selected-pokemon,Inflicts damage using either Attack or Special Attack stat  whichever is higher. Determining which stat is used takes into account stat changes but not held items or abilities.
+searing-sunraze-smash,steel,-1,physical,-1,1,0,200,No,selected-pokemon,Inflicts regular damage.  Other Pokémon's abilities cannot activate in response to this move.  In particular  it hits through disguise
+menacing-moonraze-maelstrom,ghost,-1,special,-1,1,0,200,No,selected-pokemon,Inflicts regular damage.  Other Pokémon's abilities cannot activate in response to this move.  In particular  it hits through disguise
+lets-snuggle-forever,fairy,-1,physical,-1,1,0,190,No,selected-pokemon,Inflicts regular damage.
+splintered-stormshards,rock,-1,physical,-1,1,0,190,No,selected-pokemon,Inflicts damage and removes any terrain present on the battlefield.
+clangorous-soulblaze,dragon,-1,special,100,1,0,185,No,all-opponents,Inflicts sound-based damage to all opposing Pokémon and increases the user's Attack  Defense  Special Attack  Special Defense  and Speed by one stage each. The user's stats are not raised if the move fails to damage any opposing Pokémon.
+zippy-zap,electric,100,physical,100,10,2,80,No,selected-pokemon,Inflicts regular damage.
+splishy-splash,water,100,special,30,15,0,90,No,all-opponents,Inflicts regular damage.
+floaty-fall,flying,95,physical,30,15,0,90,No,selected-pokemon,Inflicts regular damage.
+pika-papow,electric,-1,special,-1,20,0,-1,No,selected-pokemon,Inflicts regular damage.
+bouncy-bubble,water,100,special,-1,20,0,60,No,selected-pokemon,Inflicts regular damage.
+buzzy-buzz,electric,100,special,100,20,0,60,No,selected-pokemon,Inflicts regular damage.
+sizzly-slide,fire,100,physical,100,20,0,60,No,selected-pokemon,Inflicts regular damage.
+glitzy-glow,psychic,95,special,-1,15,0,80,No,selected-pokemon,Inflicts regular damage.
+baddy-bad,dark,95,special,-1,15,0,80,No,selected-pokemon,Inflicts regular damage.
+sappy-seed,grass,90,physical,100,10,0,100,No,selected-pokemon,Inflicts regular damage.
+freezy-frost,ice,90,special,-1,10,0,100,No,selected-pokemon,Inflicts regular damage.
+sparkly-swirl,fairy,85,special,-1,5,0,120,No,selected-pokemon,Inflicts regular damage.
+veevee-volley,normal,-1,physical,-1,20,0,-1,No,selected-pokemon,Inflicts regular damage.
+double-iron-bash,steel,100,physical,30,5,0,60,No,selected-pokemon,Inflicts regular damage.  Hits twice in one turn.
+max-guard,normal,-1,status,-1,10,4,-1,No,user,No moves will hit the user for the remainder of this turn.  If the user is last to act this turn  this move will fail.  If the user successfully used detect  endure  protect  quick guard  or wide guard on the last turn  this move has a 50% chance to fail.  lock on  mind reader  and no guard provide a (100 – accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure  guillotine  horn drill  and sheer cold); those are always blocked by this move.  thunder during rain dance and blizzard during hail have a 30% chance to break through this move.  The following effects are not prevented by this move:  * acupressure from an ally * curse's curse effect * Delayed damage from doom desire and future sight; however  these moves will be prevented if they are used this turn * feint  which will also end this move's protection after it hits * imprison * perish song * shadow force * Moves that merely copy the user  such as transform or psych up  This move cannot be selected by assist or metronome.
+dynamax-cannon,dragon,100,special,-1,5,0,100,No,selected-pokemon,Inflicts regular damage  then (if successful) sets light screen on the user's side of the field.
+snipe-shot,water,100,special,-1,15,0,80,No,selected-pokemon,Inflicts regular damage  then (if successful) sets reflect on the user's side of the field.
+jaw-lock,dark,100,physical,-1,10,0,80,No,selected-pokemon,Inflicts regular damage  then (if successful) sets leech seed on the target.
+stuff-cheeks,normal,-1,status,100,10,0,-1,No,user,Inflicts regular damage  then (if successful) removes major status effects from every Pokémon in the user's party.
+no-retreat,fighting,-1,status,100,5,0,-1,No,user,Inflicts regular damage.  Hits twice in one turn  with a 100% chance to make the target flinch.
+tar-shot,rock,100,status,100,15,0,-1,No,selected-pokemon,None
+magic-powder,psychic,100,status,-1,20,0,-1,No,selected-pokemon,None
+dragon-darts,dragon,100,physical,-1,10,0,50,No,selected-pokemon,None
+teatime,normal,-1,status,-1,10,0,-1,No,all-pokemon,None
+octolock,fighting,100,status,-1,15,0,-1,No,selected-pokemon,None
+bolt-beak,electric,100,physical,-1,10,0,85,No,selected-pokemon,None
+fishious-rend,water,100,physical,-1,10,0,85,No,selected-pokemon,None
+court-change,normal,100,status,-1,10,0,-1,No,entire-field,None
+max-flare,fire,-1,physical,-1,10,0,100,No,selected-pokemon-me-first,Inflicts regular damage.
+max-flutterby,bug,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-lightning,electric,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-strike,normal,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-knuckle,fighting,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-phantasm,ghost,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-hailstorm,ice,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-ooze,poison,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-geyser,water,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-airstream,flying,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-starfall,fairy,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-wyrmwind,dragon,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-mindstorm,psychic,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-rockfall,rock,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-quake,ground,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-darkness,dark,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-overgrowth,grass,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+max-steelspike,steel,-1,physical,-1,10,0,10,No,selected-pokemon-me-first,Inflicts regular damage.
+clangorous-soul,dragon,100,status,100,5,0,-1,No,user,None
+body-press,fighting,100,physical,-1,10,0,80,No,selected-pokemon,None
+decorate,fairy,-1,status,100,15,0,-1,No,selected-pokemon,None
+drum-beating,grass,100,physical,100,10,0,80,No,selected-pokemon,Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.
+snap-trap,grass,100,physical,100,15,0,35,No,selected-pokemon,Inflicts regular damage.  For the next 2–5 turns  the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field  this effect ends.  Has a 3/8 chance each to hit 2 or 3 times  and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.  rapid spin cancels this effect.
+pyro-ball,fire,90,physical,10,5,0,120,No,selected-pokemon,Inflicts regular damage.  Has a 10% chance to burn the target.
+behemoth-blade,steel,100,physical,-1,5,0,100,No,selected-pokemon,None
+behemoth-bash,steel,100,physical,-1,5,0,100,No,selected-pokemon,None
+aura-wheel,electric,100,physical,100,10,0,110,No,selected-pokemon,None
+breaking-swipe,dragon,100,physical,100,15,0,60,No,all-opponents,Inflicts regular damage.  Lowers the target's Attack by one stage.
+branch-poke,grass,100,physical,-1,40,0,40,No,selected-pokemon,Inflicts regular damage.
+overdrive,electric,100,special,-1,10,0,80,No,all-opponents,None
+apple-acid,grass,100,special,100,10,0,80,No,selected-pokemon,None
+grav-apple,grass,100,physical,100,10,0,80,No,selected-pokemon,Inflicts regular damage.  Lowers the target's Defense by one stage.
+spirit-break,fairy,100,physical,100,15,0,75,No,selected-pokemon,Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.
+strange-steam,fairy,95,special,20,10,0,90,No,selected-pokemon,Inflicts regular damage.  Has a 20% chance to confuse the target.
+life-dew,water,-1,status,-1,10,0,-1,No,user-and-allies,None
+obstruct,dark,100,status,-1,10,4,-1,No,user,None
+false-surrender,dark,-1,physical,-1,10,0,80,No,selected-pokemon,Inflicts regular damage.  Ignores accuracy and evasion modifiers.
+meteor-assault,fighting,100,physical,-1,5,0,150,No,selected-pokemon,Inflicts regular damage.  User loses its next turn to "recharge"  and cannot attack or switch out during that turn.
+eternabeam,dragon,90,special,-1,5,0,160,No,selected-pokemon,Inflicts regular damage.  User loses its next turn to "recharge"  and cannot attack or switch out during that turn.
+steel-beam,steel,95,special,-1,5,0,140,No,selected-pokemon,Inflicts damage  and the user takes damage equal to half of its max HP  rounded up. The user still takes damage if the move is blocked by Protect or Substitute  misses  or if the target has Flash Fire.
+expanding-force,psychic,100,special,-1,10,0,80,No,selected-pokemon,Inflicts regular damage.
+steel-roller,steel,100,physical,-1,5,0,130,No,selected-pokemon,Inflicts regular damage.
+scale-shot,dragon,90,physical,-1,20,0,25,No,selected-pokemon,Inflicts regular damage two to five times in a row  raising the user's Speed and lowering the user's Defense by one stage each upon last hit.
+meteor-beam,rock,90,special,100,10,0,120,No,selected-pokemon,Inflicts regular damage.
+shell-side-arm,poison,100,special,20,10,0,90,No,selected-pokemon,Inflicts regular damage.
+misty-explosion,fairy,100,special,-1,5,0,100,No,all-other-pokemon,Inflicts regular damage.
+grassy-glide,grass,100,physical,-1,20,0,55,No,selected-pokemon,Inflicts regular damage.
+rising-voltage,electric,100,special,-1,20,0,70,No,selected-pokemon,Inflicts regular damage.
+terrain-pulse,normal,100,special,-1,10,0,50,No,selected-pokemon,Inflicts regular damage.
+skitter-smack,bug,90,physical,100,10,0,70,No,selected-pokemon,Inflicts regular damage.
+burning-jealousy,fire,100,special,100,5,0,70,No,all-opponents,Inflicts regular damage.
+lash-out,dark,100,physical,-1,5,0,75,No,selected-pokemon,Inflicts regular damage.
+poltergeist,ghost,90,physical,-1,5,0,110,No,selected-pokemon,Inflicts regular damage.
+corrosive-gas,poison,100,status,-1,40,0,-1,No,all-other-pokemon,Inflicts regular damage.
+coaching,fighting,-1,status,100,10,0,-1,No,user-and-allies,Inflicts regular damage.
+flip-turn,water,100,physical,-1,20,0,60,No,selected-pokemon,Inflicts regular damage.
+triple-axel,ice,90,physical,-1,10,0,20,No,selected-pokemon,Inflicts regular damage.
+dual-wingbeat,flying,90,physical,-1,10,0,40,No,selected-pokemon,Inflicts regular damage.
+scorching-sands,ground,100,special,30,10,0,70,No,selected-pokemon,Inflicts regular damage.
+jungle-healing,grass,-1,status,-1,10,0,-1,No,user-and-allies,Inflicts regular damage.
+wicked-blow,dark,100,physical,-1,5,0,75,No,selected-pokemon,Inflicts regular damage.
+surging-strikes,water,100,physical,-1,5,0,25,No,selected-pokemon,Inflicts regular damage.
+thunder-cage,electric,90,special,100,15,0,80,No,selected-pokemon,Inflicts regular damage.
+dragon-energy,dragon,100,special,-1,5,0,150,No,all-opponents,Inflicts regular damage.
+freezing-glare,psychic,100,special,10,10,0,90,No,selected-pokemon,Inflicts regular damage.
+fiery-wrath,dark,100,special,20,10,0,90,No,all-opponents,Inflicts regular damage.
+thunderous-kick,fighting,100,physical,100,10,0,90,No,selected-pokemon,Inflicts regular damage.
+glacial-lance,ice,100,physical,-1,5,0,120,No,all-opponents,Inflicts regular damage.
+astral-barrage,ghost,100,special,-1,5,0,120,No,all-opponents,Inflicts regular damage.
+eerie-spell,psychic,100,special,-1,5,0,80,No,selected-pokemon,Inflicts regular damage.
+dire-claw,poison,100,physical,-1,15,0,80,No,selected-pokemon,None
+psyshield-bash,psychic,90,physical,-1,10,0,70,No,selected-pokemon,None
+power-shift,normal,-1,status,-1,10,0,0,No,user,None
+stone-axe,rock,90,physical,-1,15,0,65,No,selected-pokemon,None
+springtide-storm,fairy,80,special,-1,5,0,100,No,all-opponents,None
+mystical-power,psychic,90,special,-1,10,0,70,No,selected-pokemon,None
+raging-fury,fire,100,physical,-1,10,0,120,No,random-opponent,None
+wave-crash,water,100,physical,-1,10,0,120,No,selected-pokemon,None
+chloroblast,grass,95,special,-1,5,0,150,No,selected-pokemon,None
+mountain-gale,ice,85,physical,-1,10,0,100,No,selected-pokemon,None
+victory-dance,fighting,-1,status,-1,10,0,0,No,user,None
+headlong-rush,ground,100,physical,-1,5,0,120,No,selected-pokemon,None
+barb-barrage,poison,100,physical,-1,10,0,60,No,selected-pokemon,None
+esper-wing,psychic,100,special,-1,10,0,80,No,selected-pokemon,None
+bitter-malice,ghost,100,special,-1,10,0,75,No,selected-pokemon,None
+shelter,steel,-1,status,-1,10,0,0,No,user,None
+triple-arrows,fighting,100,physical,-1,10,0,90,No,selected-pokemon,None
+infernal-parade,ghost,100,special,-1,15,0,60,No,selected-pokemon,None
+ceaseless-edge,dark,90,physical,-1,15,0,65,No,selected-pokemon,None
+bleakwind-storm,flying,80,special,-1,10,0,100,No,all-opponents,None
+wildbolt-storm,electric,80,special,-1,10,0,100,No,all-opponents,None
+sandsear-storm,ground,80,special,-1,10,0,100,No,all-opponents,None
+lunar-blessing,psychic,-1,status,-1,5,0,0,No,all-allies,None
+take-heart,psychic,-1,status,-1,10,0,0,No,all-allies,None
+tera-blast,normal,100,special,-1,10,0,80,No,selected-pokemon,None
+silk-trap,bug,-1,status,-1,10,4,0,No,user,None
+axe-kick,fighting,90,physical,-1,10,0,120,No,selected-pokemon,None
+last-respects,ghost,100,physical,-1,10,0,50,No,selected-pokemon,None
+lumina-crash,psychic,100,special,-1,10,0,80,No,selected-pokemon,None
+order-up,dragon,100,physical,-1,10,0,80,No,selected-pokemon,None
+jet-punch,water,100,physical,-1,15,1,60,No,selected-pokemon,None
+spicy-extract,grass,-1,status,-1,15,0,0,No,selected-pokemon,None
+spin-out,steel,100,physical,-1,5,0,100,No,selected-pokemon,None
+population-bomb,normal,90,physical,-1,10,0,20,No,selected-pokemon,None
+ice-spinner,ice,100,physical,-1,15,0,80,No,selected-pokemon,None
+glaive-rush,dragon,100,physical,-1,5,0,120,No,selected-pokemon,None
+revival-blessing,normal,-1,status,-1,1,0,0,No,fainting-pokemon,None
+salt-cure,rock,100,physical,-1,15,0,40,No,selected-pokemon,None
+triple-dive,water,95,physical,-1,10,0,30,No,selected-pokemon,None
+mortal-spin,poison,100,physical,-1,15,0,30,No,all-opponents,None
+doodle,normal,100,status,-1,10,0,0,No,selected-pokemon,None
+fillet-away,normal,-1,status,-1,10,0,0,No,user,None
+kowtow-cleave,dark,-1,physical,-1,10,0,85,No,selected-pokemon,None
+flower-trick,grass,-1,physical,-1,10,0,70,No,selected-pokemon,None
+torch-song,fire,100,special,-1,10,0,80,No,selected-pokemon,None
+aqua-step,water,100,physical,-1,10,0,80,No,selected-pokemon,None
+raging-bull,normal,100,physical,-1,10,0,90,No,selected-pokemon,None
+make-it-rain,steel,100,special,-1,5,0,120,No,all-opponents,None
+psyblade,psychic,100,physical,-1,15,0,80,No,selected-pokemon,None
+hydro-steam,water,100,special,-1,15,0,80,No,selected-pokemon,None
+ruination,dark,90,special,-1,10,0,1,No,selected-pokemon,None
+collision-course,fighting,100,physical,-1,5,0,100,No,selected-pokemon,None
+electro-drift,electric,100,special,-1,5,0,100,No,selected-pokemon,None
+shed-tail,normal,-1,status,-1,10,0,0,No,user,None
+chilly-reception,ice,-1,status,-1,10,0,0,No,entire-field,None
+tidy-up,normal,-1,status,-1,10,0,0,No,user,None
+snowscape,ice,-1,status,-1,10,0,0,No,entire-field,None
+pounce,bug,100,physical,-1,20,0,50,No,selected-pokemon,None
+trailblaze,grass,100,physical,-1,20,0,50,No,selected-pokemon,None
+chilling-water,water,100,special,-1,20,0,50,No,selected-pokemon,None
+hyper-drill,normal,100,physical,-1,5,0,100,No,selected-pokemon,None
+twin-beam,psychic,100,special,-1,10,0,40,No,selected-pokemon,None
+rage-fist,ghost,100,physical,-1,10,0,50,No,selected-pokemon,None
+armor-cannon,fire,100,special,-1,5,0,120,No,selected-pokemon,None
+bitter-blade,fire,100,physical,-1,10,0,90,No,selected-pokemon,None
+double-shock,electric,100,physical,-1,5,0,120,No,selected-pokemon,None
+gigaton-hammer,steel,100,physical,-1,5,0,160,No,selected-pokemon,None
+comeuppance,dark,100,physical,-1,10,0,1,No,specific-move,None
+aqua-cutter,water,100,physical,-1,20,0,70,No,selected-pokemon,None
+blazing-torque,fire,100,physical,-1,10,0,80,No,selected-pokemon,None
+wicked-torque,dark,100,physical,-1,10,0,80,No,selected-pokemon,None
+noxious-torque,poison,100,physical,-1,10,0,100,No,selected-pokemon,None
+combat-torque,fighting,100,physical,-1,10,0,100,No,selected-pokemon,None
+magical-torque,fairy,100,physical,-1,10,0,100,No,selected-pokemon,None
+blood-moon,normal,100,special,-1,5,0,140,No,selected-pokemon,None
+matcha-gotcha,grass,90,special,-1,15,0,80,No,selected-pokemon,None
+syrup-bomb,grass,85,special,-1,10,0,60,No,selected-pokemon,None
+ivy-cudgel,grass,100,physical,-1,10,0,100,No,selected-pokemon,None
+electro-shot,electric,100,special,-1,10,0,130,No,selected-pokemon,None
+tera-starstorm,normal,100,special,-1,5,0,120,No,all-opponents,None
+fickle-beam,dragon,100,special,-1,5,0,80,No,selected-pokemon,None
+burning-bulwark,fire,0,status,-1,10,4,0,No,user,None
+thunderclap,electric,100,special,-1,5,1,70,No,selected-pokemon,None
+mighty-cleave,rock,100,physical,-1,5,0,95,No,selected-pokemon,None
+tachyon-cutter,steel,0,special,-1,10,0,50,No,selected-pokemon,None
+hard-press,steel,100,physical,-1,10,0,0,No,selected-pokemon,None
+dragon-cheer,dragon,0,status,-1,15,0,0,No,all-allies,None
+alluring-voice,fairy,100,special,-1,10,0,80,No,selected-pokemon,None
+temper-flare,fire,100,physical,-1,10,0,75,No,selected-pokemon,None
+supercell-slam,electric,95,physical,-1,15,0,100,No,selected-pokemon,None
+psychic-noise,psychic,100,special,-1,10,0,75,No,selected-pokemon,None
+upper-hand,fighting,100,physical,-1,15,3,65,No,selected-pokemon,None
+malignant-chain,poison,100,special,-1,5,0,100,No,selected-pokemon,None
